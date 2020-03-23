@@ -1,4 +1,4 @@
-{
+[{
 	"date": "2020-03-08T00:00:00Z",
 	"tested": 57,
 	"confirmed": 0,
@@ -88,4 +88,4 @@
 	"confirmed": 2,
 	"recovered": 0,
 	"deaths": 1
-}
+}]
