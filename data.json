@@ -1,91 +1,91 @@
 [{
-	"date": "2020-03-08T00:00:00Z",
-	"tested": 57,
-	"confirmed": 0,
-	"recovered": 0,
-	"deaths": 0
+    "date": "2020-03-08T00:00:00Z",
+    "tested": 57,
+    "confirmed": 0,
+    "recovered": 0,
+    "deaths": 0
 }, {
-	"date": "2020-03-09T00:00:00Z",
-	"tested": 5,
-	"confirmed": 0,
-	"recovered": 0,
-	"deaths": 0
+    "date": "2020-03-09T00:00:00Z",
+    "tested": 5,
+    "confirmed": 0,
+    "recovered": 0,
+    "deaths": 0
 }, {
-	"date": "2020-03-10T00:00:00Z",
-	"tested": 13,
-	"confirmed": 0,
-	"recovered": 0,
-	"deaths": 0
+    "date": "2020-03-10T00:00:00Z",
+    "tested": 13,
+    "confirmed": 0,
+    "recovered": 0,
+    "deaths": 0
 }, {
-	"date": "2020-03-11T00:00:00Z",
-	"tested": 7,
-	"confirmed": 0,
-	"recovered": 0,
-	"deaths": 0
+    "date": "2020-03-11T00:00:00Z",
+    "tested": 7,
+    "confirmed": 0,
+    "recovered": 0,
+    "deaths": 0
 }, {
-	"date": "2020-03-12T00:00:00Z",
-	"tested": 11,
-	"confirmed": 0,
-	"recovered": 0,
-	"deaths": 0
+    "date": "2020-03-12T00:00:00Z",
+    "tested": 11,
+    "confirmed": 0,
+    "recovered": 0,
+    "deaths": 0
 }, {
-	"date": "2020-03-13T00:00:00Z",
-	"tested": 15,
-	"confirmed": 2,
-	"recovered": 0,
-	"deaths": 0
+    "date": "2020-03-13T00:00:00Z",
+    "tested": 15,
+    "confirmed": 2,
+    "recovered": 0,
+    "deaths": 0
 }, {
-	"date": "2020-03-14T00:00:00Z",
-	"tested": 99,
-	"confirmed": 3,
-	"recovered": 0,
-	"deaths": 0
+    "date": "2020-03-14T00:00:00Z",
+    "tested": 99,
+    "confirmed": 3,
+    "recovered": 0,
+    "deaths": 0
 }, {
-	"date": "2020-03-15T00:00:00Z",
-	"tested": 34,
-	"confirmed": 4,
-	"recovered": 0,
-	"deaths": 0
+    "date": "2020-03-15T00:00:00Z",
+    "tested": 34,
+    "confirmed": 4,
+    "recovered": 0,
+    "deaths": 0
 }, {
-	"date": "2020-03-16T00:00:00Z",
-	"tested": 22,
-	"confirmed": 6,
-	"recovered": 0,
-	"deaths": 0
+    "date": "2020-03-16T00:00:00Z",
+    "tested": 22,
+    "confirmed": 6,
+    "recovered": 0,
+    "deaths": 0
 }, {
-	"date": "2020-03-17T00:00:00Z",
-	"tested": 21,
-	"confirmed": 4,
-	"recovered": 0,
-	"deaths": 0
+    "date": "2020-03-17T00:00:00Z",
+    "tested": 21,
+    "confirmed": 4,
+    "recovered": 0,
+    "deaths": 0
 }, {
-	"date": "2020-03-18T00:00:00Z",
-	"tested": 35,
-	"confirmed": 1,
-	"recovered": 0,
-	"deaths": 0
+    "date": "2020-03-18T00:00:00Z",
+    "tested": 35,
+    "confirmed": 1,
+    "recovered": 0,
+    "deaths": 0
 }, {
-	"date": "2020-03-19T00:00:00Z",
-	"tested": 21,
-	"confirmed": 1,
-	"recovered": 0,
-	"deaths": 0
+    "date": "2020-03-19T00:00:00Z",
+    "tested": 21,
+    "confirmed": 1,
+    "recovered": 0,
+    "deaths": 0
 }, {
-	"date": "2020-03-20T00:00:00Z",
-	"tested": 77,
-	"confirmed": 3,
-	"recovered": 0,
-	"deaths": 0
+    "date": "2020-03-20T00:00:00Z",
+    "tested": 77,
+    "confirmed": 3,
+    "recovered": 0,
+    "deaths": 0
 }, {
-	"date": "2020-03-21T00:00:00Z",
-	"tested": 150,
-	"confirmed": 7,
-	"recovered": 0,
-	"deaths": 0
+    "date": "2020-03-21T00:00:00Z",
+    "tested": 150,
+    "confirmed": 7,
+    "recovered": 0,
+    "deaths": 0
 }, {
-	"date": "2020-03-22T00:00:00Z",
-	"tested": 10,
-	"confirmed": 2,
-	"recovered": 0,
-	"deaths": 1
+    "date": "2020-03-22T00:00:00Z",
+    "tested": 10,
+    "confirmed": 2,
+    "recovered": 0,
+    "deaths": 1
 }]
