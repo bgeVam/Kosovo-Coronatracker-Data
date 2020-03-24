@@ -90,8 +90,8 @@
     "deaths": 1
 }, {
     "date": "2020-03-23T00:00:00Z",
-    "tested": 20,
-    "confirmed": 2,
+    "tested": 113,
+    "confirmed": 28,
     "recovered": 0,
     "deaths": 0
 }]
