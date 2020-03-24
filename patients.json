@@ -52,7 +52,7 @@
     "date": "2020-03-16T00:00:00Z",
     "gender": "F",
     "age": 26,
-    "city": "Prizren"
+    "city": "Obiliq"
 }, {
     "date": "2020-03-16T00:00:00Z",
     "gender": "M",
@@ -96,7 +96,7 @@
 }, {
     "date": "2020-03-18T00:00:00Z",
     "gender": "F",
-    "age": 35,
+    "age": 55,
     "city": "Podujevë"
 }, {
     "date": "2020-03-19T00:00:00Z",
@@ -139,6 +139,21 @@
     "age": 40,
     "city": "Gjakovë"
 }, {
+    "date": "2020-03-21T00:00:00Z",
+    "gender": "M",
+    "age": 20,
+    "city": "Gjilan"
+}, {
+    "date": "2020-03-21T00:00:00Z",
+    "gender": "F",
+    "age": 36,
+    "city": "Gjilan"
+}, {
+    "date": "2020-03-21T00:00:00Z",
+    "gender": "M",
+    "age": 31,
+    "city": "Malishevë"
+}, {
     "date": "2020-03-22T00:00:00Z",
     "gender": "M",
     "age": 50,
@@ -158,6 +173,136 @@
     "gender": "F",
     "age": 39,
     "city": "Prishtinë"
+}, {
+    "date": "2020-03-23T00:00:00Z",
+    "gender": "NULL",
+    "age": NULL,
+    "city": "Gjakovë"
+}, {
+    "date": "2020-03-23T00:00:00Z",
+    "gender": "NULL",
+    "age": NULL,
+    "city": "Gjilan"
+}, {
+    "date": "2020-03-23T00:00:00Z",
+    "gender": "NULL",
+    "age": NULL,
+    "city": "Gjilan"
+}, {
+    "date": "2020-03-23T00:00:00Z",
+    "gender": "NULL",
+    "age": NULL,
+    "city": "Gjilan"
+}, {
+    "date": "2020-03-23T00:00:00Z",
+    "gender": "NULL",
+    "age": NULL,
+    "city": "Gjilan"
+}, {
+    "date": "2020-03-23T00:00:00Z",
+    "gender": "NULL",
+    "age": NULL,
+    "city": "Gjilan"
+}, {
+    "date": "2020-03-23T00:00:00Z",
+    "gender": "NULL",
+    "age": NULL,
+    "city": "Gjilan"
+}, {
+    "date": "2020-03-23T00:00:00Z",
+    "gender": "NULL",
+    "age": NULL,
+    "city": "Gjilan"
+}, {
+    "date": "2020-03-23T00:00:00Z",
+    "gender": "NULL",
+    "age": NULL,
+    "city": "Gjilan"
+}, {
+    "date": "2020-03-23T00:00:00Z",
+    "gender": "NULL",
+    "age": NULL,
+    "city": "Gjilan"
+}, {
+    "date": "2020-03-23T00:00:00Z",
+    "gender": "NULL",
+    "age": NULL,
+    "city": "Gjilan"
+}, {
+    "date": "2020-03-23T00:00:00Z",
+    "gender": "NULL",
+    "age": NULL,
+    "city": "Gjilan"
+}, {
+    "date": "2020-03-23T00:00:00Z",
+    "gender": "NULL",
+    "age": NULL,
+    "city": "Malishevë"
+}, {
+    "date": "2020-03-23T00:00:00Z",
+    "gender": "NULL",
+    "age": NULL,
+    "city": "Malishevë"
+}, {
+    "date": "2020-03-23T00:00:00Z",
+    "gender": "NULL",
+    "age": NULL,
+    "city": "Malishevë"
+}, {
+    "date": "2020-03-23T00:00:00Z",
+    "gender": "NULL",
+    "age": NULL,
+    "city": "Malishevë"
+}, {
+    "date": "2020-03-23T00:00:00Z",
+    "gender": "NULL",
+    "age": NULL,
+    "city": "Malishevë"
+}, {
+    "date": "2020-03-23T00:00:00Z",
+    "gender": "NULL",
+    "age": NULL,
+    "city": "Malishevë"
+}, {
+    "date": "2020-03-23T00:00:00Z",
+    "gender": "NULL",
+    "age": NULL,
+    "city": "Malishevë"
+}, {
+    "date": "2020-03-23T00:00:00Z",
+    "gender": "NULL",
+    "age": NULL,
+    "city": "Malishevë"
+}, {
+    "date": "2020-03-23T00:00:00Z",
+    "gender": "NULL",
+    "age": NULL,
+    "city": "Malishevë"
+}, {
+    "date": "2020-03-23T00:00:00Z",
+    "gender": "NULL",
+    "age": NULL,
+    "city": "Malishevë"
+}, {
+    "date": "2020-03-23T00:00:00Z",
+    "gender": "NULL",
+    "age": NULL,
+    "city": "Malishevë"
+}, {
+    "date": "2020-03-23T00:00:00Z",
+    "gender": "NULL",
+    "age": NULL,
+    "city": "Malishevë"
+}, {
+    "date": "2020-03-23T00:00:00Z",
+    "gender": "NULL",
+    "age": NULL,
+    "city": "Malishevë"
+}, {
+    "date": "2020-03-23T00:00:00Z",
+    "gender": "NULL",
+    "age": NULL,
+    "city": "Malishevë"
 },
 
  
