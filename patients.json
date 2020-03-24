@@ -1,81 +1,164 @@
 [{
-    "date": "2020-03-08T00:00:00Z",
-    "gender": "M",
-    "age": 0,
-    "city": 0,
-}, {
-    "date": "2020-03-09T00:00:00Z",
-    "gender": "M",
-    "age": 0,
-    "city": 0,
-}, {
-    "date": "2020-03-10T00:00:00Z",
-    "gender": "M",
-    "age": 0,
-    "city": 0,
-}, {
-    "date": "2020-03-11T00:00:00Z",
-    "gender": "M",
-    "age": 0,
-    "city": 0,
-}, {
-    "date": "2020-03-12T00:00:00Z",
-    "gender": "M",
-    "age": 0,
-    "city": 0,
-}, {
     "date": "2020-03-13T00:00:00Z",
     "gender": "M",
-    "age": 0,
-    "city": 0,
+    "age": 77,
+    "city": "Viti"
+}, {
+    "date": "2020-03-13T00:00:00Z",
+    "gender": "F",
+    "age": 22,
+    "city": "Klinë"
 }, {
     "date": "2020-03-14T00:00:00Z",
     "gender": "M",
-    "age": 0,
-    "city": 0,
+    "age": 39,
+    "city": "Viti"
+}, {
+    "date": "2020-03-14T00:00:00Z",
+    "gender": "M",
+    "age": 42,
+    "city": "Viti"
+}, {
+    "date": "2020-03-14T00:00:00Z",
+    "gender": "F",
+    "age": 37,
+    "city": "Malishevë"
 }, {
     "date": "2020-03-15T00:00:00Z",
     "gender": "M",
-    "age": 0,
-    "city": 0,
+    "age": 72,
+    "city": "Malishevë"
+}, {
+    "date": "2020-03-15T00:00:00Z",
+    "gender": "F",
+    "age": 38,
+    "city": "Podujevë"
+}, {
+    "date": "2020-03-15T00:00:00Z",
+    "gender": "M",
+    "age": 50,
+    "city": "Podujevë"
+}, {
+    "date": "2020-03-15T00:00:00Z",
+    "gender": "F",
+    "age": 52,
+    "city": "Podujevë"
 }, {
     "date": "2020-03-16T00:00:00Z",
     "gender": "M",
-    "age": 0,
-    "city": 0,
+    "age": 26,
+    "city": "Prizren"
+}, {
+    "date": "2020-03-16T00:00:00Z",
+    "gender": "F",
+    "age": 26,
+    "city": "Prizren"
+}, {
+    "date": "2020-03-16T00:00:00Z",
+    "gender": "M",
+    "age": 10,
+    "city": "Viti"
+}, {
+    "date": "2020-03-16T00:00:00Z",
+    "gender": "F",
+    "age": 11,
+    "city": "Viti"
+}, {
+    "date": "2020-03-16T00:00:00Z",
+    "gender": "M",
+    "age": 69,
+    "city": "Viti"
+}, {
+    "date": "2020-03-16T00:00:00Z",
+    "gender": "F",
+    "age": 28,
+    "city": "Viti"
 }, {
     "date": "2020-03-17T00:00:00Z",
     "gender": "M",
-    "age": 0,
-    "city": 0,
+    "age": 54,
+    "city": "Gjakovë"
+}, {
+    "date": "2020-03-17T00:00:00Z",
+    "gender": "F",
+    "age": 49,
+    "city": "Gjakovë"
+}, {
+    "date": "2020-03-17T00:00:00Z",
+    "gender": "F",
+    "age": 39,
+    "city": "Prishtinë"
+}, {
+    "date": "2020-03-17T00:00:00Z",
+    "gender": "F",
+    "age": 20,
+    "city": "NULL"
 }, {
     "date": "2020-03-18T00:00:00Z",
-    "gender": "M",
-    "age": 0,
-    "city": 0,
+    "gender": "F",
+    "age": 35,
+    "city": "Podujevë"
 }, {
     "date": "2020-03-19T00:00:00Z",
     "gender": "M",
-    "age": 0,
-    "city": 0,
+    "age": 46,
+    "city": "Lipjan"
 }, {
     "date": "2020-03-20T00:00:00Z",
     "gender": "M",
-    "age": 0,
-    "city": 0,
+    "age": 67,
+    "city": "Malishevë"
+}, {
+    "date": "2020-03-20T00:00:00Z",
+    "gender": "F",
+    "age": 53,
+    "city": "Suharekë"
+}, {
+    "date": "2020-03-20T00:00:00Z",
+    "gender": "M",
+    "age": 43,
+    "city": "Gjakovë"
 }, {
     "date": "2020-03-21T00:00:00Z",
     "gender": "M",
-    "age": 0,
-    "city": 0,
+    "age": 32,
+    "city": "Ferizaj"
+}, {
+    "date": "2020-03-21T00:00:00Z",
+    "gender": "F",
+    "age": 50,
+    "city": "Prishtinë"
+}, {
+    "date": "2020-03-21T00:00:00Z",
+    "gender": "F",
+    "age": 29,
+    "city": "Prishtinë"
+}, {
+    "date": "2020-03-21T00:00:00Z",
+    "gender": "F",
+    "age": 40,
+    "city": "Gjakovë"
 }, {
     "date": "2020-03-22T00:00:00Z",
     "gender": "M",
-    "age": 0,
-    "city": 0,
+    "age": 50,
+    "city": "Gjilan"
+}, {
+    "date": "2020-03-22T00:00:00Z",
+    "gender": "M",
+    "age": 53,
+    "city": "Malishevë"
 }, {
     "date": "2020-03-23T00:00:00Z",
     "gender": "M",
-    "age": 0,
-    "city": 0,
-}]
+    "age": 44,
+    "city": "Shtime"
+}, {
+    "date": "2020-03-23T00:00:00Z",
+    "gender": "F",
+    "age": 39,
+    "city": "Prishtinë"
+},
+
+ 
+]
