@@ -175,8 +175,8 @@
     "city": "Prishtinë"
 }, {
     "date": "2020-03-23T00:00:00Z",
-    "gender": null,
-    "age": null,
+    "gender": "M",
+    "age": "50",
     "city": "Gjakovë"
 }, {
     "date": "2020-03-23T00:00:00Z",
