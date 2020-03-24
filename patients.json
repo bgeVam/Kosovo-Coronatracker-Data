@@ -303,4 +303,14 @@
     "gender": null,
     "age": null,
     "city": "Malishevë"
+}, {
+    "date": "2020-03-24T00:00:00Z",
+    "gender": "F",
+    "age": 25,
+    "city": "Gjilan"
+}, {
+    "date": "2020-03-24T00:00:00Z",
+    "gender": "F",
+    "age": 73,
+    "city": "Vushtrri"
 }]
