@@ -313,4 +313,44 @@
     "gender": "F",
     "age": 73,
     "city": "Vushtrri"
+}, {
+    "date": "2020-03-25T00:00:00Z",
+    "gender": null,
+    "age": null,
+    "city": "Malishevë"
+}, {
+    "date": "2020-03-25T00:00:00Z",
+    "gender": null,
+    "age": null,
+    "city": "Malishevë"
+}, {
+    "date": "2020-03-25T00:00:00Z",
+    "gender": null,
+    "age": null,
+    "city": "Malishevë"
+}, {
+    "date": "2020-03-25T00:00:00Z",
+    "gender": null,
+    "age": null,
+    "city": "Malishevë"
+}, {
+    "date": "2020-03-25T00:00:00Z",
+    "gender": null,
+    "age": null,
+    "city": "Prishtinë"
+}, {
+    "date": "2020-03-25T00:00:00Z",
+    "gender": null,
+    "age": null,
+    "city": "Prishtinë"
+}, {
+    "date": "2020-03-25T00:00:00Z",
+    "gender": null,
+    "age": null,
+    "city": "Prishtinë"
+}, {
+    "date": "2020-03-25T00:00:00Z",
+    "gender": null,
+    "age": null,
+    "city": "Vushtrri"
 }]
