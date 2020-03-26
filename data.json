@@ -106,4 +106,10 @@
     "confirmed": 8,
     "recovered": 0,
     "deaths": 0
+}, {
+    "date": "2020-03-26T00:00:00Z",
+    "tested": 89,
+    "confirmed": 8,
+    "recovered": 1,
+    "deaths": 0
 }]
