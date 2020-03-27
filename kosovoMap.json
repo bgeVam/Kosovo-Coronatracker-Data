@@ -25,7 +25,7 @@
 	{"type":"Polygon","properties":{"name":"Dragash"},"id":"XK-DG","arcs":[[74,-72]]},
 	{"type":"Polygon","properties":{"name":"Suharekë"},"id":"XK-SU","arcs":[[75,76,77,-74,-18,78,-58]]},
 	{"type":"Polygon","properties":{"name":"Malishevë"},"id":"XK-MA","arcs":[[-59,-79,-20,-10,-45]]},
-	{"type":"Polygon","properties":{"name":"Shtime"},"id":"XK-ST","arcs":[[79,-76,-57]]},
+	{"type":"Polygon","properties":{"name":"Shtime"},"id":"XK-SHT","arcs":[[79,-76,-57]]},
 	{"type":"Polygon","properties":{"name":"Ferizaj"},"id":"XK-FR","arcs":[[-63,-67,80,81,-77,-80,-56]]},
 	{"type":"Polygon","properties":{"name":"Shtërpcë"},"id":"XK-SHT","arcs":[[82,83,-70,-78,-82]]},
 	{"type":"Polygon","properties":{"name":"Kaçanik"},"id":"XK-KC","arcs":[[84,-83,-81,-66]]}]}},
