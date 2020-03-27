@@ -385,12 +385,12 @@
     "city": "Prishtinë"
 }, {
     "date": "2020-03-26T00:00:00Z",
-    "gender": null,
+    "gender": "F",
     "age": null,
     "city": "Prishtinë"
 }, {
     "date": "2020-03-26T00:00:00Z",
-    "gender": null,
+    "gender": "F",
     "age": null,
     "city": "Pejë"
 }, {
@@ -416,16 +416,16 @@
 }, {
     "date": "2020-03-26T00:00:00Z",
     "gender": null,
-    "age": null,
+    "age": 6,
     "city": "Malishevë"
 }, {
     "date": "2020-03-26T00:00:00Z",
     "gender": null,
-    "age": null,
+    "age": 8,
     "city": "Malishevë"
 }, {
     "date": "2020-03-26T00:00:00Z",
     "gender": null,
-    "age": null,
+    "age": 16,
     "city": "Malishevë"
 }]
