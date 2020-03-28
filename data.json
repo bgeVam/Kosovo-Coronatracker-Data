@@ -1,6 +1,78 @@
 [{
-    "date": "2020-03-08T00:00:00Z",
-    "tested": 57,
+    "date": "2020-02-08T00:00:00Z",
+    "tested": 1,
+    "confirmed": 0,
+    "recovered": 0,
+    "deaths": 0
+}, {
+    "date": "2020-02-22T00:00:00Z",
+    "tested": 2,
+    "confirmed": 0,
+    "recovered": 0,
+    "deaths": 0
+}, {
+    "date": "2020-02-24T00:00:00Z",
+    "tested": 5,
+    "confirmed": 0,
+    "recovered": 0,
+    "deaths": 0
+}, {
+    "date": "2020-02-25T00:00:00Z",
+    "tested": 3,
+    "confirmed": 0,
+    "recovered": 0,
+    "deaths": 0
+}, {
+    "date": "2020-02-26T00:00:00Z",
+    "tested": 6,
+    "confirmed": 0,
+    "recovered": 0,
+    "deaths": 0
+}, {
+    "date": "2020-02-27T00:00:00Z",
+    "tested": 7,
+    "confirmed": 0,
+    "recovered": 0,
+    "deaths": 0
+}, {
+    "date": "2020-02-28T00:00:00Z",
+    "tested": 8,
+    "confirmed": 0,
+    "recovered": 0,
+    "deaths": 0
+}, {
+    "date": "2020-02-29T00:00:00Z",
+    "tested": 2,
+    "confirmed": 0,
+    "recovered": 0,
+    "deaths": 0
+}, {
+    "date": "2020-03-02T00:00:00Z",
+    "tested": 4,
+    "confirmed": 0,
+    "recovered": 0,
+    "deaths": 0
+}, {
+    "date": "2020-03-03T00:00:00Z",
+    "tested": 7,
+    "confirmed": 0,
+    "recovered": 0,
+    "deaths": 0
+}, {
+    "date": "2020-03-04T00:00:00Z",
+    "tested": 8,
+    "confirmed": 0,
+    "recovered": 0,
+    "deaths": 0
+}, {
+    "date": "2020-03-05T00:00:00Z",
+    "tested": 1,
+    "confirmed": 0,
+    "recovered": 0,
+    "deaths": 0
+}, {
+    "date": "2020-03-06T00:00:00Z",
+    "tested": 4,
     "confirmed": 0,
     "recovered": 0,
     "deaths": 0
@@ -12,7 +84,7 @@
     "deaths": 0
 }, {
     "date": "2020-03-10T00:00:00Z",
-    "tested": 13,
+    "tested": 14,
     "confirmed": 0,
     "recovered": 0,
     "deaths": 0
@@ -30,7 +102,7 @@
     "deaths": 0
 }, {
     "date": "2020-03-13T00:00:00Z",
-    "tested": 15,
+    "tested": 26,
     "confirmed": 2,
     "recovered": 0,
     "deaths": 0
@@ -42,20 +114,20 @@
     "deaths": 0
 }, {
     "date": "2020-03-15T00:00:00Z",
-    "tested": 34,
-    "confirmed": 4,
+    "tested": 27,
+    "confirmed": 8,
     "recovered": 0,
     "deaths": 0
 }, {
     "date": "2020-03-16T00:00:00Z",
-    "tested": 22,
-    "confirmed": 6,
+    "tested": 24,
+    "confirmed": 3,
     "recovered": 0,
     "deaths": 0
 }, {
     "date": "2020-03-17T00:00:00Z",
-    "tested": 21,
-    "confirmed": 4,
+    "tested": 13,
+    "confirmed": 3,
     "recovered": 0,
     "deaths": 0
 }, {
@@ -108,14 +180,20 @@
     "deaths": 0
 }, {
     "date": "2020-03-26T00:00:00Z",
-    "tested": 117,
+    "tested": 119,
     "confirmed": 15,
     "recovered": 1,
     "deaths": 0
 }, {
     "date": "2020-03-27T00:00:00Z",
-    "tested": 108,
+    "tested": 106,
     "confirmed": 2,
     "recovered": 0,
     "deaths": 0
-}]
+}, {
+    "date": "2020-03-28T00:00:00Z",
+    "tested": 38,
+    "confirmed": 2,
+    "recovered": 0,
+    "deaths": 0
+},]
