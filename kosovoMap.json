@@ -13,7 +13,7 @@
 	{"type":"Polygon","properties":{"name":"Zubin Potok"},"id":"XK-ZP","arcs":[[-30,-37,-9,37,-22]]},
 	{"type":"Polygon","properties":{"name":"Fushë Kosovë"},"id":"XK-FK","arcs":[[38,39,40,41]]},
 	{"type":"Polygon","properties":{"name":"Drenas"},"id":"XK-DR","arcs":[[42,-40,43,44,-36,-34]]},
-	{"type":"Polygon","properties":{"name":"Obliç"},"id":"XK-OB","arcs":[[45,-41,-43,-33,46]]},
+	{"type":"Polygon","properties":{"name":"Obiliç"},"id":"XK-OB","arcs":[[45,-41,-43,-33,46]]},
 	{"type":"Polygon","properties":{"name":"Podujevë"},"id":"XK-PD","arcs":[[47,-47,-32,-31,-25,48]]},
 	{"type":"Polygon","properties":{"name":"Prishtinë"},"id":"XK-PR","arcs":[[49,50,51,52,-42,-46,-48]]},
 	{"type":"Polygon","properties":{"name":"Lipjan"},"id":"XK-LI","arcs":[[53,54,55,56,57,58,-44,-39,-53]]},
