@@ -623,4 +623,9 @@
     "gender": null,
     "age": null,
     "city": "Kamenicë"
+}, {
+    "date": "2020-04-02T00:00:00Z",
+    "gender": null,
+    "age": null,
+    "city": "Prizren"
 }]
