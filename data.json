@@ -232,4 +232,10 @@
     "confirmed": 9,
     "recovered": 6,
     "deaths": 0
+}, {
+    "date": "2020-04-04T00:00:00Z",
+    "tested": 128,
+    "confirmed": 5,
+    "recovered": 7,
+    "deaths": 0
 }]
