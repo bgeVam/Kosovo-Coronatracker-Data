@@ -698,4 +698,29 @@
     "gender": null,
     "age": null,
     "city": null
+}, {
+    "date": "2020-04-05T00:00:00Z",
+    "gender": null,
+    "age": null,
+    "city": "Malishevë"
+}, {
+    "date": "2020-04-05T00:00:00Z",
+    "gender": null,
+    "age": null,
+    "city": "Malishevë"
+}, {
+    "date": "2020-04-05T00:00:00Z",
+    "gender": null,
+    "age": null,
+    "city": "Malishevë"
+}, {
+    "date": "2020-04-05T00:00:00Z",
+    "gender": null,
+    "age": null,
+    "city": "Gjakovë"
+}, {
+    "date": "2020-04-05T00:00:00Z",
+    "gender": null,
+    "age": null,
+    "city": "Vushtrri"
 }]
