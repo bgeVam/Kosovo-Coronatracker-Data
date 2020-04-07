@@ -250,4 +250,10 @@
     "confirmed": 20,
     "recovered": 1,
     "deaths": 2
+}, {
+    "date": "2020-04-07T00:00:00Z",
+    "tested": 13,
+    "confirmed": 5,
+    "recovered": 0,
+    "deaths": 0
 }]
