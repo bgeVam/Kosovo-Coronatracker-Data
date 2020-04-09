@@ -1118,4 +1118,19 @@
     "gender": null,
     "age": null,
     "city": "Mitrovicë"
+}, {
+    "date": "2020-04-09T00:00:00Z",
+    "gender": null,
+    "age": null,
+    "city": "Prishtinë"
+}, {
+    "date": "2020-04-09T00:00:00Z",
+    "gender": null,
+    "age": null,
+    "city": "Suharekë"
+}, {
+    "date": "2020-04-09T00:00:00Z",
+    "gender": null,
+    "age": null,
+    "city": "Leposaviç"
 }]
