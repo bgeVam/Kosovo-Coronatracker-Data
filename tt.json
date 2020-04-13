@@ -1,7 +1,7 @@
 {"type":"Topology","objects":{"svg.geo_2":{"type":"GeometryCollection","geometries":[
 {"type":"Polygon","properties":{"name":"Kosovo"},"id":"XK-kosove","arcs":[[0]]},
 {"type":"Polygon","properties":{"name":"Pejë"},"id":"XK-PE","arcs":[[1]]},
-{"type":"Polygon","properties":{"name":"Pejë"},"id":"XK-PE","arcs":[[2]]},
+{"type":"Polygon","properties":{"name":"HELLO"},"id":"XK-PE","arcs":[[2]]},
 {"type":"Polygon","properties":{"name":"Pejë"},"id":"XK-PE","arcs":[[3]]},
 {"type":"Polygon","properties":{"name":"Pejë"},"id":"XK-PE","arcs":[[4]]},
 {"type":"Polygon","properties":{"name":"Pejë"},"id":"XK-PE","arcs":[[5]]},
