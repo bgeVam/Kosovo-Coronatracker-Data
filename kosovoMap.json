@@ -1,4 +1,4 @@
-{"type":"Topology","objects":{"collection":{"type":"GeometryCollection","geometries":[
+{"type":"Topology","objects":{"kos":{"type":"GeometryCollection","geometries":[
   {"type":"Polygon","id":"XK-DE","properties":{"name":"Deçan"},"arcs":[[0]]},
   {"type":"Polygon","id":"XK-GJK","properties":{"name":"Gjakovë"},"arcs":[[1]]},
   {"type":"Polygon","id":"XK-DR","properties":{"name":"Drenas"},"arcs":[[2]]},
