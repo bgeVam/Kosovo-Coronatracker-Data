@@ -3,353 +3,467 @@
     "objects": {
         "kos": {
             "type": "GeometryCollection",
-            "geometries": [
-                {
-                    "type": "Polygon",
-                    "id": "XK-DE",
-                    "arcs": [
-                        [
-                            0
-                        ]
-                    ]
-                },
-                {
-                    "type": "Polygon",
-                    "id": "XK-GJK",
-                    "arcs": [
-                        [
-                            1
-                        ]
-                    ]
-                },
-                {
-                    "type": "Polygon",
-                    "id": "XK-DR",
-                    "arcs": [
-                        [
-                            2
-                        ]
-                    ]
-                },
-                {
-                    "type": "Polygon",
-                    "id": "XK-GL",
-                    "arcs": [
-                        [
-                            3
-                        ]
-                    ]
-                },
-                {
-                    "type": "Polygon",
-                    "id": "XK-DG",
-                    "arcs": [
-                        [
-                            4
-                        ]
-                    ]
-                },
-                {
-                    "type": "Polygon",
-                    "id": "XK-IS",
-                    "arcs": [
-                        [
-                            5
-                        ]
-                    ]
-                },
-                {
-                    "type": "Polygon",
-                    "id": "XK-KA",
-                    "arcs": [
-                        [
-                            6
-                        ]
-                    ]
-                },
-                {
-                    "type": "Polygon",
-                    "id": "XK-KN",
-                    "arcs": [
-                        [
-                            7
-                        ]
-                    ]
-                },
-                {
-                    "type": "Polygon",
-                    "id": "XK-FK",
-                    "arcs": [
-                        [
-                            8
-                        ]
-                    ]
-                },
-                {
-                    "type": "Polygon",
-                    "id": "XK-KM",
-                    "arcs": [
-                        [
-                            9
-                        ]
-                    ]
-                },
-                {
-                    "type": "Polygon",
-                    "id": "XK-MT",
-                    "arcs": [
-                        [
-                            10
-                        ]
-                    ]
-                },
-                {
-                    "type": "Polygon",
-                    "id": "XK-LE",
-                    "arcs": [
-                        [
-                            11
-                        ]
-                    ]
-                },
-                {
-                    "type": "Polygon",
-                    "id": "XK-LI",
-                    "arcs": [
-                        [
-                            12
-                        ]
-                    ]
-                },
-                {
-                    "type": "Polygon",
-                    "id": "XK-NB",
-                    "arcs": [
-                        [
-                            13
-                        ]
-                    ]
-                },
-                {
-                    "type": "Polygon",
-                    "id": "XK-OB",
-                    "arcs": [
-                        [
-                            14
-                        ]
-                    ]
-                },
-                {
-                    "type": "Polygon",
-                    "id": "XK-RV",
-                    "arcs": [
-                        [
-                            15
-                        ]
-                    ]
-                },
-                {
-                    "type": "Polygon",
-                    "id": "XK-PE",
-                    "arcs": [
-                        [
-                            16
-                        ]
-                    ]
-                },
-                {
-                    "type": "Polygon",
-                    "id": "XK-PO",
-                    "arcs": [
-                        [
-                            17
-                        ]
-                    ]
-                },
-                {
-                    "type": "Polygon",
-                    "id": "XK-PR",
-                    "arcs": [
-                        [
-                            18
-                        ]
-                    ]
-                },
-                {
-                    "type": "Polygon",
-                    "id": "XK-PZ",
-                    "arcs": [
-                        [
-                            19
-                        ]
-                    ]
-                },
-                {
-                    "type": "Polygon",
-                    "id": "XK-SK",
-                    "arcs": [
-                        [
-                            20
-                        ]
-                    ]
-                },
-                {
-                    "type": "Polygon",
-                    "id": "XK-SHT",
-                    "arcs": [
-                        [
-                            21
-                        ]
-                    ]
-                },
-                {
-                    "type": "Polygon",
-                    "id": "XK-SHP",
-                    "arcs": [
-                        [
-                            22
-                        ]
-                    ]
-                },
-                {
-                    "type": "Polygon",
-                    "id": "XK-SU",
-                    "arcs": [
-                        [
-                            23
-                        ]
-                    ]
-                },
-                {
-                    "type": "Polygon",
-                    "id": "XK-FR",
-                    "arcs": [
-                        [
-                            24
-                        ]
-                    ]
-                },
-                {
-                    "type": "Polygon",
-                    "id": "XK-VT",
-                    "arcs": [
-                        [
-                            25
-                        ],
-                        [
-                            26
-                        ]
-                    ]
-                },
-                {
-                    "type": "Polygon",
-                    "id": "XK-VU",
-                    "arcs": [
-                        [
-                            27
-                        ]
-                    ]
-                },
-                {
-                    "type": "Polygon",
-                    "id": "XK-ZP",
-                    "arcs": [
-                        [
-                            28
-                        ]
-                    ]
-                },
-                {
-                    "type": "Polygon",
-                    "id": "XK-ZV",
-                    "arcs": [
-                        [
-                            29
-                        ]
-                    ]
-                },
-                {
-                    "type": "Polygon",
-                    "id": "XK-MSH",
-                    "arcs": [
-                        [
-                            30
-                        ]
-                    ]
-                },
-                {
-                    "type": "Polygon",
-                    "id": "XK-JU",
-                    "arcs": [
-                        [
-                            31
-                        ]
-                    ]
-                },
-                {
-                    "type": "Polygon",
-                    "id": "XK-MA",
-                    "arcs": [
-                        [
-                            32
-                        ]
-                    ]
-                },
-                {
-                    "type": "Polygon",
-                    "id": "XK-HE",
-                    "arcs": [
-                        [
-                            33
-                        ]
-                    ]
-                },
-                {
-                    "type": "Polygon",
-                    "id": "XK-GR",
-                    "arcs": [
-                        [
-                            34
-                        ]
-                    ]
-                },
-                {
-                    "type": "Polygon",
-                    "id": "XK-RA",
-                    "arcs": [
-                        [
-                            35
-                        ]
-                    ]
-                },
-                {
-                    "type": "Polygon",
-                    "id": "XK-PA",
-                    "arcs": [
-                        [
-                            36
-                        ]
-                    ]
-                },
-                {
-                    "type": "Polygon",
-                    "id": "XK-KL",
-                    "arcs": [
-                        [
-                            37
-                        ]
-                    ]
-                },
-                {
-                    "type": "Polygon",
-                    "id": "XK-MV",
-                    "arcs": [
-                        [
-                            38
-                        ]
-                    ]
-                }
-            ]
+			"geometries":[
+            {
+               "type":"Polygon",
+               "properties":{
+                  "name":"Deçan"
+               },
+               "id":"XK-DE",
+               "arcs":[
+                  [
+                     0
+                  ]
+               ]
+            },
+            {
+               "type":"Polygon",
+               "properties":{
+                  "name":"Gjakovë"
+               },
+               "id":"XK-GJK",
+               "arcs":[
+                  [
+                     1
+                  ]
+               ]
+            },
+            {
+               "type":"Polygon",
+               "properties":{
+                  "name":"Drenas"
+               },
+               "id":"XK-DR",
+               "arcs":[
+                  [
+                     2
+                  ]
+               ]
+            },
+            {
+               "type":"Polygon",
+               "properties":{
+                  "name":"Gjilan"
+               },
+               "id":"XK-GL",
+               "arcs":[
+                  [
+                     3
+                  ]
+               ]
+            },
+            {
+               "type":"Polygon",
+               "properties":{
+                  "name":"Dragash"
+               },
+               "id":"XK-DG",
+               "arcs":[
+                  [
+                     4
+                  ]
+               ]
+            },
+            {
+               "type":"Polygon",
+               "properties":{
+                  "name":"Istog"
+               },
+               "id":"XK-IS",
+               "arcs":[
+                  [
+                     5
+                  ]
+               ]
+            },
+            {
+               "type":"Polygon",
+               "properties":{
+                  "name":"Kaçanik"
+               },
+               "id":"XK-KA",
+               "arcs":[
+                  [
+                     6
+                  ]
+               ]
+            },
+            {
+               "type":"Polygon",
+               "properties":{
+                  "name":"Klinë"
+               },
+               "id":"XK-KN",
+               "arcs":[
+                  [
+                     7
+                  ]
+               ]
+            },
+            {
+               "type":"Polygon",
+               "properties":{
+                  "name":"Fushë Kosovë"
+               },
+               "id":"XK-FK",
+               "arcs":[
+                  [
+                     8
+                  ]
+               ]
+            },
+            {
+               "type":"Polygon",
+               "properties":{
+                  "name":"Kamenicë"
+               },
+               "id":"XK-KM",
+               "arcs":[
+                  [
+                     9
+                  ]
+               ]
+            },
+            {
+               "type":"Polygon",
+               "properties":{
+                  "name":"Mitrovicë"
+               },
+               "id":"XK-MT",
+               "arcs":[
+                  [
+                     10
+                  ]
+               ]
+            },
+            {
+               "type":"Polygon",
+               "properties":{
+                  "name":"Leposaviç"
+               },
+               "id":"XK-LE",
+               "arcs":[
+                  [
+                     11
+                  ]
+               ]
+            },
+            {
+               "type":"Polygon",
+               "properties":{
+                  "name":"Lipjan"
+               },
+               "id":"XK-LI",
+               "arcs":[
+                  [
+                     12
+                  ]
+               ]
+            },
+            {
+               "type":"Polygon",
+               "properties":{
+                  "name":"Novobërdë"
+               },
+               "id":"XK-NB",
+               "arcs":[
+                  [
+                     13
+                  ]
+               ]
+            },
+            {
+               "type":"Polygon",
+               "properties":{
+                  "name":"Obiliç"
+               },
+               "id":"XK-OB",
+               "arcs":[
+                  [
+                     14
+                  ]
+               ]
+            },
+            {
+               "type":"Polygon",
+               "properties":{
+                  "name":"Rahovec"
+               },
+               "id":"XK-RV",
+               "arcs":[
+                  [
+                     15
+                  ]
+               ]
+            },
+            {
+               "type":"Polygon",
+               "properties":{
+                  "name":"Pejë"
+               },
+               "id":"XK-PE",
+               "arcs":[
+                  [
+                     16
+                  ]
+               ]
+            },
+            {
+               "type":"Polygon",
+               "properties":{
+                  "name":"Podujevë"
+               },
+               "id":"XK-PO",
+               "arcs":[
+                  [
+                     17
+                  ]
+               ]
+            },
+            {
+               "type":"Polygon",
+               "properties":{
+                  "name":"Prishtinë"
+               },
+               "id":"XK-PR",
+               "arcs":[
+                  [
+                     18
+                  ]
+               ]
+            },
+            {
+               "type":"Polygon",
+               "properties":{
+                  "name":"Prizren"
+               },
+               "id":"XK-PZ",
+               "arcs":[
+                  [
+                     19
+                  ]
+               ]
+            },
+            {
+               "type":"Polygon",
+               "properties":{
+                  "name":"Skënderaj"
+               },
+               "id":"XK-SK",
+               "arcs":[
+                  [
+                     20
+                  ]
+               ]
+            },
+            {
+               "type":"Polygon",
+               "properties":{
+                  "name":"Shtime"
+               },
+               "id":"XK-SHT",
+               "arcs":[
+                  [
+                     21
+                  ]
+               ]
+            },
+            {
+               "type":"Polygon",
+               "properties":{
+                  "name":"Shtërpce"
+               },
+               "id":"XK-SHP",
+               "arcs":[
+                  [
+                     22
+                  ]
+               ]
+            },
+            {
+               "type":"Polygon",
+               "properties":{
+                  "name":"Suharekë"
+               },
+               "id":"XK-SU",
+               "arcs":[
+                  [
+                     23
+                  ]
+               ]
+            },
+            {
+               "type":"Polygon",
+               "properties":{
+                  "name":"Ferizaj"
+               },
+               "id":"XK-FR",
+               "arcs":[
+                  [
+                     24
+                  ]
+               ]
+            },
+            {
+               "type":"Polygon",
+               "properties":{
+                  "name":"Viti"
+               },
+               "id":"XK-VT",
+               "arcs":[
+                  [
+                     25
+                  ]
+               ]
+            },
+            {
+               "type":"Polygon",
+               "properties":{
+                  "name":"Vushtrri"
+               },
+               "id":"XK-VU",
+               "arcs":[
+                  [
+                     26
+                  ],
+				  [
+					 27
+				  ]
+               ]
+            },
+            {
+               "type":"Polygon",
+               "properties":{
+                  "name":"Zubin Potok"
+               },
+               "id":"XK-ZP",
+               "arcs":[
+                  [
+                     28
+                  ]
+               ]
+            },
+            {
+               "type":"Polygon",
+               "properties":{
+                  "name":"Zveçan"
+               },
+               "id":"XK-ZV",
+               "arcs":[
+                  [
+                     29
+                  ]
+               ]
+            },
+            {
+               "type":"Polygon",
+               "properties":{
+                  "name":"Malishevë"
+               },
+               "id":"XK-MSH",
+               "arcs":[
+                  [
+                     30
+                  ]
+               ]
+            },
+            {
+               "type":"Polygon",
+               "properties":{
+                  "name":"Junik"
+               },
+               "id":"XK-JU",
+               "arcs":[
+                  [
+                     31
+                  ]
+               ]
+            },
+            {
+               "type":"Polygon",
+               "properties":{
+                  "name":"Mamushë"
+               },
+               "id":"XK-MA",
+               "arcs":[
+                  [
+                     32
+                  ]
+               ]
+            },
+            {
+               "type":"Polygon",
+               "properties":{
+                  "name":"Hani i Elezit"
+               },
+               "id":"XK-HE",
+               "arcs":[
+                  [
+                     33
+                  ]
+               ]
+            },
+            {
+               "type":"Polygon",
+               "properties":{
+                  "name":"Graçanica"
+               },
+               "id":"XK-GR",
+               "arcs":[
+                  [
+                     34
+                  ]
+               ]
+            },
+            {
+               "type":"Polygon",
+               "properties":{
+                  "name":"Ranilluk"
+               },
+               "id":"XK-RA",
+               "arcs":[
+                  [
+                     35
+                  ]
+               ]
+            },
+            {
+               "type":"Polygon",
+               "properties":{
+                  "name":"Partesh"
+               },
+               "id":"XK-PA",
+               "arcs":[
+                  [
+                     36
+                  ]
+               ]
+            },
+            {
+               "type":"Polygon",
+               "properties":{
+                  "name":"Kllokot"
+               },
+               "id":"XK-KL",
+               "arcs":[
+                  [
+                     37
+                  ]
+               ]
+            },
+            {
+               "type":"Polygon",
+               "properties":{
+                  "name":"Mitrovicë e Veriut"
+               },
+               "id":"XK-MV",
+               "arcs":[
+                  [
+                     38
+                  ]
+               ]
+            }
+         ]
         }
     },
     "arcs": [
