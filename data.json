@@ -305,9 +305,9 @@
     "recovered": 5,
     "deaths": 1
 }, {
-    "date": "2020-04-16T00:00:00Z",
-    "tested": 0,
-    "confirmed": 0,
-    "recovered": 0,
-    "deaths": 1
+    "date": "2020-04-17T00:00:00Z",
+    "tested": 195,
+    "confirmed": 26,
+    "recovered": 8,
+    "deaths": 2
 }]
