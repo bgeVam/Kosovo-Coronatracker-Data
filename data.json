@@ -334,4 +334,10 @@
     "confirmed": 37,
     "recovered": 21,
     "deaths": 3
+}, {
+    "date": "2020-04-21T00:00:00Z",
+    "tested": 191,
+    "confirmed": 6,
+    "recovered": 5,
+    "deaths": 3
 }]
