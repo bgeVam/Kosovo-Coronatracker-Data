@@ -408,8 +408,8 @@
     "deaths": 0
 }, {
     "date": "2020-05-03T00:00:00Z",
-    "tested": 171,
+    "tested": 412,
     "confirmed": 11,
     "recovered": 18,
-    "deaths": 0
+    "deaths": 3
 }]
