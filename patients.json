@@ -2102,7 +2102,7 @@
     "date": "2020-04-15T00:00:00Z",
     "gender": null,
     "age": null,
-    "city": "Istog"
+    "city": "Prizren"
 }, {
     "date": "2020-04-15T00:00:00Z",
     "gender": null,
@@ -3607,7 +3607,7 @@
     "date": "2020-04-25T00:00:00Z",
     "gender": null,
     "age": null,
-    "city": "Gjilan"
+    "city": "Prizren"
 }, {
     "date": "2020-04-25T00:00:00Z",
     "gender": null,
@@ -3657,7 +3657,7 @@
     "date": "2020-04-25T00:00:00Z",
     "gender": null,
     "age": null,
-    "city": "Istog"
+    "city": "Prizren"
 }, {
     "date": "2020-04-26T00:00:00Z",
     "gender": null,
@@ -4118,4 +4118,134 @@
     "gender": null,
     "age": null,
     "city": "Rahovec"
+}, {
+    "date": "2020-05-03T00:00:00Z",
+    "gender": null,
+    "age": null,
+    "city": "Mitrovicë e Veriut"
+}, {
+    "date": "2020-05-03T00:00:00Z",
+    "gender": null,
+    "age": null,
+    "city": "Mitrovicë e Veriut"
+}, {
+    "date": "2020-05-03T00:00:00Z",
+    "gender": null,
+    "age": null,
+    "city": "Mitrovicë e Veriut"
+}, {
+    "date": "2020-05-03T00:00:00Z",
+    "gender": null,
+    "age": null,
+    "city": "Mitrovicë e Veriut"
+}, {
+    "date": "2020-05-03T00:00:00Z",
+    "gender": null,
+    "age": null,
+    "city": "Mitrovicë e Veriut"
+}, {
+    "date": "2020-05-03T00:00:00Z",
+    "gender": null,
+    "age": null,
+    "city": "Mitrovicë e Veriut"
+}, {
+    "date": "2020-05-03T00:00:00Z",
+    "gender": null,
+    "age": null,
+    "city": "Mitrovicë e Veriut"
+}, {
+    "date": "2020-05-03T00:00:00Z",
+    "gender": null,
+    "age": null,
+    "city": "Mitrovicë e Veriut"
+}, {
+    "date": "2020-05-03T00:00:00Z",
+    "gender": null,
+    "age": null,
+    "city": "Mitrovicë"
+}, {
+    "date": "2020-05-03T00:00:00Z",
+    "gender": null,
+    "age": null,
+    "city": "Mitrovicë"
+}, {
+    "date": "2020-05-03T00:00:00Z",
+    "gender": null,
+    "age": null,
+    "city": "Mitrovicë"
+}, {
+    "date": "2020-05-03T00:00:00Z",
+    "gender": null,
+    "age": null,
+    "city": "Mitrovicë"
+}, {
+    "date": "2020-05-03T00:00:00Z",
+    "gender": null,
+    "age": null,
+    "city": "Mitrovicë"
+}, {
+    "date": "2020-05-03T00:00:00Z",
+    "gender": null,
+    "age": null,
+    "city": "Mitrovicë"
+}, {
+    "date": "2020-05-03T00:00:00Z",
+    "gender": null,
+    "age": null,
+    "city": "Zveçan"
+}, {
+    "date": "2020-05-03T00:00:00Z",
+    "gender": null,
+    "age": null,
+    "city": "Zveçan"
+}, {
+    "date": "2020-05-03T00:00:00Z",
+    "gender": null,
+    "age": null,
+    "city": "Zveçan"
+}, {
+    "date": "2020-05-03T00:00:00Z",
+    "gender": null,
+    "age": null,
+    "city": "Leposaviç"
+}, {
+    "date": "2020-05-03T00:00:00Z",
+    "gender": null,
+    "age": null,
+    "city": "Leposaviç"
+}, {
+    "date": "2020-05-03T00:00:00Z",
+    "gender": null,
+    "age": null,
+    "city": "Leposaviç"
+}, {
+    "date": "2020-05-03T00:00:00Z",
+    "gender": null,
+    "age": null,
+    "city": "Leposaviç"
+}, {
+    "date": "2020-05-03T00:00:00Z",
+    "gender": null,
+    "age": null,
+    "city": "Leposaviç"
+}, {
+    "date": "2020-05-03T00:00:00Z",
+    "gender": null,
+    "age": null,
+    "city": "Leposaviç"
+}, {
+    "date": "2020-05-03T00:00:00Z",
+    "gender": null,
+    "age": null,
+    "city": "Leposaviç"
+}, {
+    "date": "2020-05-03T00:00:00Z",
+    "gender": null,
+    "age": null,
+    "city": "Zubin Potok"
+}, {
+    "date": "2020-05-03T00:00:00Z",
+    "gender": null,
+    "age": null,
+    "city": "Zubin Potok"
 }]
