@@ -102,7 +102,7 @@
     "deaths": 0
 }, {
     "date": "2020-03-13T00:00:00Z",
-    "tested": 26,
+    "tested": 26, 
     "confirmed": 2,
     "recovered": 0,
     "deaths": 0
@@ -466,4 +466,10 @@
     "confirmed": 24,
     "recovered": 14,
     "deaths": 1
+}, {
+    "date": "2020-05-13T00:00:00Z",
+    "tested": 255,
+    "confirmed": 8,
+    "recovered": 0,
+    "deaths": 0
 }]
