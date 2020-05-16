@@ -478,4 +478,10 @@
     "confirmed": 18,
     "recovered": 19,
     "deaths": 0
+}, {
+    "date": "2020-05-15T00:00:00Z",
+    "tested": 236,
+    "confirmed": 10,
+    "recovered": 1,
+    "deaths": 0
 }]
