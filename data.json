@@ -568,4 +568,10 @@
     "confirmed": 12,
     "recovered": 9,
     "deaths": 0
+}, {
+    "date": "2020-05-30T00:00:00Z",
+    "tested": 220,
+    "confirmed": 6,
+    "recovered": 12,
+    "deaths": 0
 }]
