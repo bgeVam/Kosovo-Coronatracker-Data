@@ -581,13 +581,13 @@
     "recovered": 2,
     "deaths": 0
 }, {
-    "date": "2020-05-01T00:00:00Z",
+    "date": "2020-06-01T00:00:00Z",
     "tested": 172,
     "confirmed": 27,
     "recovered": 0,
     "deaths": 0
 }, {
-    "date": "2020-05-02T00:00:00Z",
+    "date": "2020-06-02T00:00:00Z",
     "tested": 193,
     "confirmed": 13,
     "recovered": 4,
