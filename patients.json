@@ -5582,32 +5582,32 @@
     "date": "2020-06-02T00:00:00Z",
     "gender": null,
     "age": null,
-    "city": null
+    "city": "Istog"
 }, {
     "date": "2020-06-02T00:00:00Z",
     "gender": null,
     "age": null,
-    "city": null
+    "city": "Leposaviç"
 }, {
     "date": "2020-06-02T00:00:00Z",
     "gender": null,
     "age": null,
-    "city": null
+    "city": "Suharekë"
 }, {
     "date": "2020-06-02T00:00:00Z",
     "gender": null,
     "age": null,
-    "city": null
+    "city": "Viti"
 }, {
     "date": "2020-06-02T00:00:00Z",
     "gender": null,
     "age": null,
-    "city": null
+    "city": "Viti"
 }, {
     "date": "2020-06-02T00:00:00Z",
     "gender": null,
     "age": null,
-    "city": null
+    "city": "Malishevë"
 }, {
     "date": "2020-06-03T00:00:00Z",
     "gender": null,
@@ -8767,5 +8767,10 @@
     "date": "2020-06-16T00:00:00Z",
     "gender": null,
     "age": null,
-    "city": "Rahovec"
+    "city": "Pejë"
+}, {
+    "date": "2020-06-16T00:00:00Z",
+    "gender": null,
+    "age": null,
+    "city": "Prishtinë"
 }]
