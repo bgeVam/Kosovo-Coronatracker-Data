@@ -688,4 +688,16 @@
     "confirmed": 83,
     "recovered": 5,
     "deaths": 0
+}, {
+    "date": "2020-06-19T00:00:00Z",
+    "tested": 456,
+    "confirmed": 82,
+    "recovered": 7,
+    "deaths": 0
+}, {
+    "date": "2020-06-20T00:00:00Z",
+    "tested": 416,
+    "confirmed": 75,
+    "recovered": 38,
+    "deaths": 0
 }]
