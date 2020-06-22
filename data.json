@@ -706,4 +706,10 @@
     "confirmed": 96,
     "recovered": 29,
     "deaths": 1
+}, {
+    "date": "2020-06-22T00:00:00Z",
+    "tested": 314,
+    "confirmed": 47,
+    "recovered": 22,
+    "deaths": 1
 }]
