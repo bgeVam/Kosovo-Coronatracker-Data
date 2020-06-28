@@ -739,7 +739,7 @@
 }, {
     "date": "2020-06-27T00:00:00Z",
     "tested": 207,
-    "confirmed": 87,
-    "recovered": 96,
+    "confirmed": 96,
+    "recovered": 87,
     "deaths": 4
 }]
