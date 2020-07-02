@@ -5724,6 +5724,11 @@
     "age": null,
     "city": "Prizren"
 }, {
+    "date": "2020-06-04T00:00:00Z",
+    "gender": null,
+    "age": null,
+    "city": "Prishtinë"
+}, {
     "date": "2020-06-05T00:00:00Z",
     "gender": null,
     "age": null,
@@ -8763,16 +8768,11 @@
     "gender": null,
     "age": null,
     "city": "Kaçanik"
-}, {
+},{
     "date": "2020-06-16T00:00:00Z",
     "gender": null,
     "age": null,
-    "city": "Pejë"
-}, {
-    "date": "2020-06-16T00:00:00Z",
-    "gender": null,
-    "age": null,
-    "city": "Prishtinë"
+    "city": "Rahovec"
 }, {
     "date": "2020-06-17T00:00:00Z",
     "gender": null,
