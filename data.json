@@ -802,4 +802,10 @@
     "confirmed": 183,
     "recovered": 57,
     "deaths": 3
+}, {
+    "date": "2020-07-08T00:00:00Z",
+    "tested": 413,
+    "confirmed": 214,
+    "recovered": 60,
+    "deaths": 4
 }]
