@@ -1363,17 +1363,7 @@
     "gender": null,
     "age": null,
     "city": "Leposaviç"
-}, {
-    "date": "2020-04-08T00:00:00Z",
-    "gender": null,
-    "age": null,
-    "city": "Leposaviç"
-}, {
-    "date": "2020-04-08T00:00:00Z",
-    "gender": null,
-    "age": null,
-    "city": "Zubin Potok"
-}, {
+},{
     "date": "2020-04-08T00:00:00Z",
     "gender": null,
     "age": null,
@@ -1808,12 +1798,7 @@
     "gender": null,
     "age": null,
     "city": "Fushë Kosovë"
-}, {
-    "date": "2020-04-12T00:00:00Z",
-    "gender": null,
-    "age": null,
-    "city": "Rahovec"
-}, {
+},{
     "date": "2020-04-12T00:00:00Z",
     "gender": null,
     "age": null,
@@ -1833,7 +1818,7 @@
     "gender": null,
     "age": null,
     "city": "Vushtrri"
-}, {
+},{
     "date": "2020-04-12T00:00:00Z",
     "gender": null,
     "age": null,
@@ -1842,11 +1827,6 @@
     "date": "2020-04-12T00:00:00Z",
     "gender": null,
     "age": null,
-    "city": "Malishevë"
-}, {
-    "date": "2020-04-12T00:00:00Z",
-    "gender": null,
-    "age": null,
     "city": "Gjilan"
 }, {
     "date": "2020-04-12T00:00:00Z",
@@ -1872,31 +1852,6 @@
     "date": "2020-04-12T00:00:00Z",
     "gender": null,
     "age": null,
-    "city": "Viti"
-}, {
-    "date": "2020-04-12T00:00:00Z",
-    "gender": null,
-    "age": null,
-    "city": "Viti"
-}, {
-    "date": "2020-04-12T00:00:00Z",
-    "gender": null,
-    "age": null,
-    "city": "Viti"
-}, {
-    "date": "2020-04-12T00:00:00Z",
-    "gender": null,
-    "age": null,
-    "city": "Viti"
-}, {
-    "date": "2020-04-12T00:00:00Z",
-    "gender": null,
-    "age": null,
-    "city": "Viti"
-}, {
-    "date": "2020-04-12T00:00:00Z",
-    "gender": null,
-    "age": null,
     "city": "Hani i Elezit"
 }, {
     "date": "2020-04-12T00:00:00Z",
@@ -1918,52 +1873,7 @@
     "gender": null,
     "age": null,
     "city": "Hani i Elezit"
-}, {
-    "date": "2020-04-12T00:00:00Z",
-    "gender": null,
-    "age": null,
-    "city": "Prizren"
-}, {
-    "date": "2020-04-12T00:00:00Z",
-    "gender": null,
-    "age": null,
-    "city": "Prizren"
-}, {
-    "date": "2020-04-12T00:00:00Z",
-    "gender": null,
-    "age": null,
-    "city": "Prizren"
-}, {
-    "date": "2020-04-12T00:00:00Z",
-    "gender": null,
-    "age": null,
-    "city": "Prizren"
-}, {
-    "date": "2020-04-12T00:00:00Z",
-    "gender": null,
-    "age": null,
-    "city": "Prizren"
-}, {
-    "date": "2020-04-12T00:00:00Z",
-    "gender": null,
-    "age": null,
-    "city": "Prizren"
-}, {
-    "date": "2020-04-12T00:00:00Z",
-    "gender": null,
-    "age": null,
-    "city": "Prizren"
-}, {
-    "date": "2020-04-12T00:00:00Z",
-    "gender": null,
-    "age": null,
-    "city": "Prizren"
-}, {
-    "date": "2020-04-12T00:00:00Z",
-    "gender": null,
-    "age": null,
-    "city": "Prizren"
-}, {
+},{
     "date": "2020-04-12T00:00:00Z",
     "gender": null,
     "age": null,
