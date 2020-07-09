@@ -1,4 +1,364 @@
 [{
+    "date": "2020-01-01T00:00:00Z",
+    "gender": null,
+    "age": null,
+    "city": "Prishtinë"
+},{
+    "date": "2020-01-01T00:00:00Z",
+    "gender": null,
+    "age": null,
+    "city": "Prishtinë"
+},{
+    "date": "2020-01-01T00:00:00Z",
+    "gender": null,
+    "age": null,
+    "city": "Mitrovicë"
+},{
+    "date": "2020-01-01T00:00:00Z",
+    "gender": null,
+    "age": null,
+    "city": "Zveçan"
+},{
+    "date": "2020-01-01T00:00:00Z",
+    "gender": null,
+    "age": null,
+    "city": "Istog"
+},{
+    "date": "2020-01-01T00:00:00Z",
+    "gender": null,
+    "age": null,
+    "city": "Istog"
+},{
+    "date": "2020-01-01T00:00:00Z",
+    "gender": null,
+    "age": null,
+    "city": "Skënderaj"
+},{
+    "date": "2020-01-01T00:00:00Z",
+    "gender": null,
+    "age": null,
+    "city": "Vushtrri"
+},{
+    "date": "2020-01-01T00:00:00Z",
+    "gender": null,
+    "age": null,
+    "city": "Vushtrri"
+},{
+    "date": "2020-01-01T00:00:00Z",
+    "gender": null,
+    "age": null,
+    "city": "Vushtrri"
+},{
+    "date": "2020-01-01T00:00:00Z",
+    "gender": null,
+    "age": null,
+    "city": "Vushtrri"
+},{
+    "date": "2020-01-01T00:00:00Z",
+    "gender": null,
+    "age": null,
+    "city": "Vushtrri"
+},{
+    "date": "2020-01-01T00:00:00Z",
+    "gender": null,
+    "age": null,
+    "city": "Vushtrri"
+},{
+    "date": "2020-01-01T00:00:00Z",
+    "gender": null,
+    "age": null,
+    "city": "Vushtrri"
+},{
+    "date": "2020-01-01T00:00:00Z",
+    "gender": null,
+    "age": null,
+    "city": "Vushtrri"
+},{
+    "date": "2020-01-01T00:00:00Z",
+    "gender": null,
+    "age": null,
+    "city": "Vushtrri"
+},{
+    "date": "2020-01-01T00:00:00Z",
+    "gender": null,
+    "age": null,
+    "city": "Vushtrri"
+},{
+    "date": "2020-01-01T00:00:00Z",
+    "gender": null,
+    "age": null,
+    "city": "Vushtrri"
+},{
+    "date": "2020-01-01T00:00:00Z",
+    "gender": null,
+    "age": null,
+    "city": "Vushtrri"
+},{
+    "date": "2020-01-01T00:00:00Z",
+    "gender": null,
+    "age": null,
+    "city": "Vushtrri"
+},{
+    "date": "2020-01-01T00:00:00Z",
+    "gender": null,
+    "age": null,
+    "city": "Vushtrri"
+},{
+    "date": "2020-01-01T00:00:00Z",
+    "gender": null,
+    "age": null,
+    "city": "Vushtrri"
+},{
+    "date": "2020-01-01T00:00:00Z",
+    "gender": null,
+    "age": null,
+    "city": "Vushtrri"
+},{
+    "date": "2020-01-01T00:00:00Z",
+    "gender": null,
+    "age": null,
+    "city": "Vushtrri"
+},{
+    "date": "2020-01-01T00:00:00Z",
+    "gender": null,
+    "age": null,
+    "city": "Vushtrri"
+},{
+    "date": "2020-01-01T00:00:00Z",
+    "gender": null,
+    "age": null,
+    "city": "Vushtrri"
+},{
+    "date": "2020-01-01T00:00:00Z",
+    "gender": null,
+    "age": null,
+    "city": "Vushtrri"
+},{
+    "date": "2020-01-01T00:00:00Z",
+    "gender": null,
+    "age": null,
+    "city": "Vushtrri"
+},{
+    "date": "2020-01-01T00:00:00Z",
+    "gender": null,
+    "age": null,
+    "city": "Vushtrri"
+},{
+    "date": "2020-01-01T00:00:00Z",
+    "gender": null,
+    "age": null,
+    "city": "Vushtrri"
+},{
+    "date": "2020-01-01T00:00:00Z",
+    "gender": null,
+    "age": null,
+    "city": "Vushtrri"
+},{
+    "date": "2020-01-01T00:00:00Z",
+    "gender": null,
+    "age": null,
+    "city": "Vushtrri"
+},{
+    "date": "2020-01-01T00:00:00Z",
+    "gender": null,
+    "age": null,
+    "city": "Vushtrri"
+},{
+    "date": "2020-01-01T00:00:00Z",
+    "gender": null,
+    "age": null,
+    "city": "Vushtrri"
+},{
+    "date": "2020-01-01T00:00:00Z",
+    "gender": null,
+    "age": null,
+    "city": "Vushtrri"
+},{
+    "date": "2020-01-01T00:00:00Z",
+    "gender": null,
+    "age": null,
+    "city": "Vushtrri"
+},{
+    "date": "2020-01-01T00:00:00Z",
+    "gender": null,
+    "age": null,
+    "city": "Vushtrri"
+},{
+    "date": "2020-01-01T00:00:00Z",
+    "gender": null,
+    "age": null,
+    "city": "Vushtrri"
+},{
+    "date": "2020-01-01T00:00:00Z",
+    "gender": null,
+    "age": null,
+    "city": "Vushtrri"
+},{
+    "date": "2020-01-01T00:00:00Z",
+    "gender": null,
+    "age": null,
+    "city": "Vushtrri"
+},{
+    "date": "2020-01-01T00:00:00Z",
+    "gender": null,
+    "age": null,
+    "city": "Vushtrri"
+},{
+    "date": "2020-01-01T00:00:00Z",
+    "gender": null,
+    "age": null,
+    "city": "Vushtrri"
+},{
+    "date": "2020-01-01T00:00:00Z",
+    "gender": null,
+    "age": null,
+    "city": "Vushtrri"
+},{
+    "date": "2020-01-01T00:00:00Z",
+    "gender": null,
+    "age": null,
+    "city": "Vushtrri"
+},{
+    "date": "2020-01-01T00:00:00Z",
+    "gender": null,
+    "age": null,
+    "city": "Vushtrri"
+},{
+    "date": "2020-01-01T00:00:00Z",
+    "gender": null,
+    "age": null,
+    "city": "Vushtrri"
+},{
+    "date": "2020-01-01T00:00:00Z",
+    "gender": null,
+    "age": null,
+    "city": "Vushtrri"
+},{
+    "date": "2020-01-01T00:00:00Z",
+    "gender": null,
+    "age": null,
+    "city": "Vushtrri"
+},{
+    "date": "2020-01-01T00:00:00Z",
+    "gender": null,
+    "age": null,
+    "city": "Vushtrri"
+},{
+    "date": "2020-01-01T00:00:00Z",
+    "gender": null,
+    "age": null,
+    "city": "Vushtrri"
+},{
+    "date": "2020-01-01T00:00:00Z",
+    "gender": null,
+    "age": null,
+    "city": "Vushtrri"
+},{
+    "date": "2020-01-01T00:00:00Z",
+    "gender": null,
+    "age": null,
+    "city": "Vushtrri"
+},{
+    "date": "2020-01-01T00:00:00Z",
+    "gender": null,
+    "age": null,
+    "city": "Vushtrri"
+},{
+    "date": "2020-01-01T00:00:00Z",
+    "gender": null,
+    "age": null,
+    "city": "Vushtrri"
+},{
+    "date": "2020-01-01T00:00:00Z",
+    "gender": null,
+    "age": null,
+    "city": "Vushtrri"
+},{
+    "date": "2020-01-01T00:00:00Z",
+    "gender": null,
+    "age": null,
+    "city": "Vushtrri"
+},{
+    "date": "2020-01-01T00:00:00Z",
+    "gender": null,
+    "age": null,
+    "city": "Vushtrri"
+},{
+    "date": "2020-01-01T00:00:00Z",
+    "gender": null,
+    "age": null,
+    "city": "Vushtrri"
+},{
+    "date": "2020-01-01T00:00:00Z",
+    "gender": null,
+    "age": null,
+    "city": "Vushtrri"
+},{
+    "date": "2020-01-01T00:00:00Z",
+    "gender": null,
+    "age": null,
+    "city": "Vushtrri"
+},{
+    "date": "2020-01-01T00:00:00Z",
+    "gender": null,
+    "age": null,
+    "city": "Vushtrri"
+},{
+    "date": "2020-01-01T00:00:00Z",
+    "gender": null,
+    "age": null,
+    "city": "Vushtrri"
+},{
+    "date": "2020-01-01T00:00:00Z",
+    "gender": null,
+    "age": null,
+    "city": "Vushtrri"
+},{
+    "date": "2020-01-01T00:00:00Z",
+    "gender": null,
+    "age": null,
+    "city": "Vushtrri"
+},{
+    "date": "2020-01-01T00:00:00Z",
+    "gender": null,
+    "age": null,
+    "city": "Vushtrri"
+},{
+    "date": "2020-01-01T00:00:00Z",
+    "gender": null,
+    "age": null,
+    "city": "Vushtrri"
+},{
+    "date": "2020-01-01T00:00:00Z",
+    "gender": null,
+    "age": null,
+    "city": "Vushtrri"
+},{
+    "date": "2020-01-01T00:00:00Z",
+    "gender": null,
+    "age": null,
+    "city": "Vushtrri"
+},{
+    "date": "2020-01-01T00:00:00Z",
+    "gender": null,
+    "age": null,
+    "city": "Vushtrri"
+},{
+    "date": "2020-01-01T00:00:00Z",
+    "gender": null,
+    "age": null,
+    "city": "Hani i Elezit"
+},{
+    "date": "2020-01-01T00:00:00Z",
+    "gender": null,
+    "age": null,
+    "city": "Fushë Kosovë"
+},{
+    "date": "2020-01-01T00:00:00Z",
+    "gender": null,
+    "age": null,
+    "city": "Gjilan"
+},{
     "date": "2020-03-13T00:00:00Z",
     "gender": "M",
     "age": 77,
