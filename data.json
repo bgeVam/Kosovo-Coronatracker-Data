@@ -816,8 +816,14 @@
     "deaths": 8
 }, {
     "date": "2020-07-10T00:00:00Z",
-    "tested": 388,
+    "tested": 451,
     "confirmed": 205,
     "recovered": 61,
     "deaths": 3
+}, {
+    "date": "2020-07-11T00:00:00Z",
+    "tested": 419,
+    "confirmed": 203,
+    "recovered": 71,
+    "deaths": 4
 }]
