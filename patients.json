@@ -1507,11 +1507,6 @@
     "date": "2020-04-10T00:00:00Z",
     "gender": null,
     "age": null,
-    "city": "Viti"
-}, {
-    "date": "2020-04-10T00:00:00Z",
-    "gender": null,
-    "age": null,
     "city": "Ferizaj"
 }, {
     "date": "2020-04-10T00:00:00Z",
@@ -28857,21 +28852,6 @@
     "date": "2020-07-18T00:00:00Z",
     "gender": null,
     "age": null,
-    "city": "Viti"
-}, {
-    "date": "2020-07-18T00:00:00Z",
-    "gender": null,
-    "age": null,
-    "city": "Viti"
-}, {
-    "date": "2020-07-18T00:00:00Z",
-    "gender": null,
-    "age": null,
-    "city": "Viti"
-}, {
-    "date": "2020-07-18T00:00:00Z",
-    "gender": null,
-    "age": null,
     "city": "Skënderaj"
 }, {
     "date": "2020-07-18T00:00:00Z",
@@ -28933,4 +28913,74 @@
     "gender": null,
     "age": null,
     "city": "Suharekë"
+},{
+    "date": "2020-01-01T00:00:00Z",
+    "gender": null,
+    "age": null,
+    "city": "Vushtrri"
+},{
+    "date": "2020-01-01T00:00:00Z",
+    "gender": null,
+    "age": null,
+    "city": "Ferizaj"
+},{
+    "date": "2020-01-01T00:00:00Z",
+    "gender": null,
+    "age": null,
+    "city": "Ferizaj"
+},{
+    "date": "2020-01-01T00:00:00Z",
+    "gender": null,
+    "age": null,
+    "city": "Ferizaj"
+},{
+    "date": "2020-01-01T00:00:00Z",
+    "gender": null,
+    "age": null,
+    "city": "Prizren"
+},{
+    "date": "2020-01-01T00:00:00Z",
+    "gender": null,
+    "age": null,
+    "city": "Prizren"
+},{
+    "date": "2020-01-01T00:00:00Z",
+    "gender": null,
+    "age": null,
+    "city": "Prizren"
+},{
+    "date": "2020-01-01T00:00:00Z",
+    "gender": null,
+    "age": null,
+    "city": "Prizren"
+},{
+    "date": "2020-01-01T00:00:00Z",
+    "gender": null,
+    "age": null,
+    "city": "Prizren"
+},{
+    "date": "2020-01-01T00:00:00Z",
+    "gender": null,
+    "age": null,
+    "city": "Prizren"
+},{
+    "date": "2020-01-01T00:00:00Z",
+    "gender": null,
+    "age": null,
+    "city": "Prizren"
+},{
+    "date": "2020-01-01T00:00:00Z",
+    "gender": null,
+    "age": null,
+    "city": "Prizren"
+},{
+    "date": "2020-01-01T00:00:00Z",
+    "gender": null,
+    "age": null,
+    "city": "Prizren"
+},{
+    "date": "2020-01-01T00:00:00Z",
+    "gender": null,
+    "age": null,
+    "city": "Prizren"
 }]
