@@ -7,6 +7,21 @@
     "date": "2020-01-01T00:00:00Z",
     "gender": null,
     "age": null,
+    "city": "Kaçanik"
+},{
+    "date": "2020-01-01T00:00:00Z",
+    "gender": null,
+    "age": null,
+    "city": "Kaçanik"
+},{
+    "date": "2020-01-01T00:00:00Z",
+    "gender": null,
+    "age": null,
+    "city": "Kamenicë"
+},{
+    "date": "2020-01-01T00:00:00Z",
+    "gender": null,
+    "age": null,
     "city": "Prishtinë"
 },{
     "date": "2020-01-01T00:00:00Z",
@@ -347,7 +362,7 @@
     "date": "2020-01-01T00:00:00Z",
     "gender": null,
     "age": null,
-    "city": "Hani i Elezit"
+    "city": "Kllokot"
 },{
     "date": "2020-01-01T00:00:00Z",
     "gender": null,
@@ -2078,21 +2093,6 @@
     "gender": null,
     "age": null,
     "city": "Ferizaj"
-}, {
-    "date": "2020-04-13T00:00:00Z",
-    "gender": null,
-    "age": null,
-    "city": "Suharekë"
-}, {
-    "date": "2020-04-13T00:00:00Z",
-    "gender": null,
-    "age": null,
-    "city": "Suharekë"
-}, {
-    "date": "2020-04-13T00:00:00Z",
-    "gender": null,
-    "age": null,
-    "city": "Suharekë"
 }, {
     "date": "2020-04-13T00:00:00Z",
     "gender": null,
@@ -8262,16 +8262,6 @@
     "date": "2020-06-15T00:00:00Z",
     "gender": null,
     "age": null,
-    "city": "Drenas"
-}, {
-    "date": "2020-06-15T00:00:00Z",
-    "gender": null,
-    "age": null,
-    "city": "Drenas"
-}, {
-    "date": "2020-06-15T00:00:00Z",
-    "gender": null,
-    "age": null,
     "city": "Fushë Kosovë"
 }, {
     "date": "2020-06-15T00:00:00Z",
@@ -9258,21 +9248,6 @@
     "gender": null,
     "age": null,
     "city": "Podujevë"
-}, {
-    "date": "2020-06-17T00:00:00Z",
-    "gender": null,
-    "age": null,
-    "city": "Drenas"
-}, {
-    "date": "2020-06-17T00:00:00Z",
-    "gender": null,
-    "age": null,
-    "city": "Drenas"
-}, {
-    "date": "2020-06-17T00:00:00Z",
-    "gender": null,
-    "age": null,
-    "city": "Drenas"
 }, {
     "date": "2020-06-17T00:00:00Z",
     "gender": null,
@@ -11063,16 +11038,6 @@
     "gender": null,
     "age": null,
     "city": "Vushtrri"
-},{
-    "date": "2020-06-21T00:00:00Z",
-    "gender": null,
-    "age": null,
-    "city": "Drenas"
-},{
-    "date": "2020-06-21T00:00:00Z",
-    "gender": null,
-    "age": null,
-    "city": "Drenas"
 },{
     "date": "2020-06-21T00:00:00Z",
     "gender": null,
