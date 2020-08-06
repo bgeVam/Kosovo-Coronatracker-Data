@@ -973,7 +973,7 @@
 }, {
     "date": "2020-08-05T00:00:00Z",
     "tested": 475,
-    "confirmed": 134,
-    "recovered": 156,
+    "confirmed": 196,
+    "recovered": 134,
     "deaths": 16
 }]
