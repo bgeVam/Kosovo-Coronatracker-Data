@@ -994,4 +994,10 @@
     "confirmed": 188,
     "recovered": 142,
     "deaths": 12
+}, {
+    "date": "2020-08-09T00:00:00Z",
+    "tested": 506,
+    "confirmed": 172,
+    "recovered": 114,
+    "deaths": 14
 }]
