@@ -1060,4 +1060,10 @@
     "confirmed": 158,
     "recovered": 245,
     "deaths": 13
+}, {
+    "date": "2020-08-20T00:00:00Z",
+    "tested": 584,
+    "confirmed": 162,
+    "recovered": 220,
+    "deaths": 10
 }]
