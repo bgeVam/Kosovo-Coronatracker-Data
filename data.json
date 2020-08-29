@@ -1108,5 +1108,11 @@
     "confirmed": 119,
     "recovered": 154,
     "deaths": 1
+}, {
+    "date": "2020-08-28T00:00:00Z",
+    "tested": 466,
+    "confirmed": 115,
+    "recovered": 116,
+    "deaths": 9
 }]
 
