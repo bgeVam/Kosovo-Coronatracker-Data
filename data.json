@@ -1203,7 +1203,7 @@
     "tested": 612,
     "confirmed": 71,
     "recovered": 163,
-    "deaths": 7
+    "deaths": 6
 }, {
     "date": "2020-09-13T00:00:00Z",
     "tested": 574,
@@ -1245,7 +1245,7 @@
     "tested": 464,
     "confirmed": 61,
     "recovered": 119,
-    "deaths": 2
+    "deaths": 0
 }, {
     "date": "2020-09-20T00:00:00Z",
     "tested": 596,
