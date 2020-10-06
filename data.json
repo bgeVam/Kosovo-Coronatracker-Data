@@ -1335,6 +1335,12 @@
     "tested": 654,
     "confirmed": 41,
     "recovered": 73,
+    "deaths": 3
+}, {
+    "date": "2020-10-05T00:00:00Z",
+    "tested": 483,
+    "confirmed": 34,
+    "recovered": 122,
     "deaths": 2
 }]
 
