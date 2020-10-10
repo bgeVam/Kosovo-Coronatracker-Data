@@ -1354,5 +1354,17 @@
     "confirmed": 33,
     "recovered": 46,
     "deaths": 0
+}, {
+    "date": "2020-10-08T00:00:00Z",
+    "tested": 764,
+    "confirmed": 79,
+    "recovered": 61,
+    "deaths": 3
+}, {
+    "date": "2020-10-09T00:00:00Z",
+    "tested": 566,
+    "confirmed": 80,
+    "recovered": 32,
+    "deaths": 4
 }]
 
