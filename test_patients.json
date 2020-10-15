@@ -60,7 +60,7 @@
     "age": null
 },{
     "date": "2020-10-14T00:00:00Z",
-    "city": "Obiliq",
+    "city": "Obiliç",
     "confirmed": 208,
     "gender": null,
     "age": null
@@ -116,6 +116,18 @@
     "date": "2020-10-14T00:00:00Z",
     "city": "Kamenicë",
     "confirmed": 201,
+    "gender": null,
+    "age": null
+},{
+    "date": "2020-10-14T00:00:00Z",
+    "city": "Ranilluk",
+    "confirmed": 0,
+    "gender": null,
+    "age": null
+},{
+    "date": "2020-10-14T00:00:00Z",
+    "city": "Junik",
+    "confirmed": 7,
     "gender": null,
     "age": null
 },{
