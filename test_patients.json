@@ -2,14 +2,14 @@
     "date": "2020-10-14T00:00:00Z",
     "city": "Leposaviç",
     "confirmed": 23,
-    "gender": "F",
-    "age": 10
+    "gender": null,
+    "age": null
 }, {
     "date": "2020-10-14T00:00:00Z",
     "city": "Podujevë",
     "confirmed": 663,
-    "gender": "M",
-    "age": 10
+    "gender": null,
+    "age": null
 },{
     "date": "2020-10-14T00:00:00Z",
     "city": "Mitrovicë",
