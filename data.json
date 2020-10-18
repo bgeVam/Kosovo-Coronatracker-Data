@@ -1402,5 +1402,17 @@
     "confirmed": 104,
     "recovered": 42,
     "deaths": 2
+}, {
+    "date": "2020-10-16T00:00:00Z",
+    "tested": 1028,
+    "confirmed": 148,
+    "recovered": 56,
+    "deaths": 0
+}, {
+    "date": "2020-10-17T00:00:00Z",
+    "tested": 869,
+    "confirmed": 137,
+    "recovered": 49,
+    "deaths": 1
 }]
 
