@@ -1432,5 +1432,29 @@
     "confirmed": 124,
     "recovered": 49,
     "deaths": 0
+}, {
+    "date": "2020-10-21T00:00:00Z",
+    "tested": 1245,
+    "confirmed": 159,
+    "recovered": 58,
+    "deaths": 0
+}, {
+    "date": "2020-10-22T00:00:00Z",
+    "tested": 1119,
+    "confirmed": 169,
+    "recovered": 85,
+    "deaths": 2
+}, {
+    "date": "2020-10-23T00:00:00Z",
+    "tested": 1056,
+    "confirmed": 166,
+    "recovered": 55,
+    "deaths": 2
+}, {
+    "date": "2020-10-24T00:00:00Z",
+    "tested": 1049,
+    "confirmed": 186,
+    "recovered": 54,
+    "deaths": 2
 }]
 
