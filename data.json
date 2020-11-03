@@ -1494,9 +1494,9 @@
     "deaths": 3
 }, {
     "date": "2020-10-31T00:00:00Z",
-    "tested": 1318,
-    "confirmed": 337,
-    "recovered": 91,
-    "deaths": 7
+    "tested": 1374,
+    "confirmed": 486,
+    "recovered": 30,
+    "deaths": 9
 }]
 
