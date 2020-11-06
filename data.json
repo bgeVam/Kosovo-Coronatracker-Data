@@ -1522,5 +1522,11 @@
     "confirmed": 661,
     "recovered": 92,
     "deaths": 6
+}, {
+    "date": "2020-11-05T00:00:00Z",
+    "tested": 1827,
+    "confirmed": 728,
+    "recovered": 60,
+    "deaths": 12
 }]
 
