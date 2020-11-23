@@ -1,227 +1,227 @@
 [{
-    "date": "2020-10-15T00:00:00Z",
+    "date": "2020-10-22T00:00:00Z",
     "city": "Leposaviç",
-    "confirmed": 23,
+    "confirmed": 25,
     "gender": null,
     "age": null
 }, {
-    "date": "2020-10-15T00:00:00Z",
+    "date": "2020-10-22T00:00:00Z",
     "city": "Podujevë",
-    "confirmed": 682,
+    "confirmed": 1392,
     "gender": null,
     "age": null
 },{
-    "date": "2020-10-15T00:00:00Z",
+    "date": "2020-10-22T00:00:00Z",
     "city": "Mitrovicë",
-    "confirmed": 788,
+    "confirmed": 1319,
     "gender": null,
     "age": null
 },{
-    "date": "2020-10-15T00:00:00Z",
+    "date": "2020-10-22T00:00:00Z",
     "city": "Mitrovicë e Veriut",
     "confirmed": 49,
     "gender": null,
     "age": null
 },{
-    "date": "2020-10-15T00:00:00Z",
+    "date": "2020-10-22T00:00:00Z",
     "city": "Zveçan",
-    "confirmed": 28,
+    "confirmed": 32,
     "gender": null,
     "age": null
 },{
-    "date": "2020-10-15T00:00:00Z",
+    "date": "2020-10-22T00:00:00Z",
     "city": "Zubin Potok",
-    "confirmed": 40,
+    "confirmed": 44,
     "gender": null,
     "age": null
 },{
-    "date": "2020-10-15T00:00:00Z",
+    "date": "2020-10-22T00:00:00Z",
     "city": "Istog",
-    "confirmed": 139,
+    "confirmed": 213,
     "gender": null,
     "age": null
 },{
-    "date": "2020-10-15T00:00:00Z",
+    "date": "2020-10-22T00:00:00Z",
     "city": "Skënderaj",
-    "confirmed": 300,
+    "confirmed": 483,
     "gender": null,
     "age": null
 },{
-    "date": "2020-10-15T00:00:00Z",
+    "date": "2020-10-22T00:00:00Z",
     "city": "Vushtrri",
-    "confirmed": 846,
+    "confirmed": 1276,
     "gender": null,
     "age": null
 },{
-    "date": "2020-10-15T00:00:00Z",
+    "date": "2020-10-22T00:00:00Z",
     "city": "Prishtinë",
-    "confirmed": 5156,
+    "confirmed": 12947,
     "gender": null,
     "age": null
 },{
-    "date": "2020-10-15T00:00:00Z",
+    "date": "2020-10-22T00:00:00Z",
     "city": "Obiliç",
-    "confirmed": 209,
+    "confirmed": 465,
     "gender": null,
     "age": null
 },{
-    "date": "2020-10-15T00:00:00Z",
+    "date": "2020-10-22T00:00:00Z",
     "city": "Fushë Kosovë",
-    "confirmed": 751,
+    "confirmed": 1645,
     "gender": null,
     "age": null
 },{
-    "date": "2020-10-15T00:00:00Z",
+    "date": "2020-10-22T00:00:00Z",
     "city": "Drenas",
-    "confirmed": 414,
+    "confirmed": 652,
     "gender": null,
     "age": null
 },{
-    "date": "2020-10-15T00:00:00Z",
+    "date": "2020-10-22T00:00:00Z",
     "city": "Klinë",
-    "confirmed": 181,
+    "confirmed": 378,
     "gender": null,
     "age": null
 },{
-    "date": "2020-10-15T00:00:00Z",
+    "date": "2020-10-22T00:00:00Z",
     "city": "Pejë",
-    "confirmed": 1522,
+    "confirmed": 1530,
     "gender": null,
     "age": null
 },{
-    "date": "2020-10-15T00:00:00Z",
+    "date": "2020-10-22T00:00:00Z",
     "city": "Deçan",
-    "confirmed": 198,
+    "confirmed": 427,
     "gender": null,
     "age": null
 },{
-    "date": "2020-10-15T00:00:00Z",
+    "date": "2020-10-22T00:00:00Z",
     "city": "Malishevë",
-    "confirmed": 261,
+    "confirmed": 409,
     "gender": null,
     "age": null
 },{
-    "date": "2020-10-15T00:00:00Z",
+    "date": "2020-10-22T00:00:00Z",
     "city": "Lipjan",
-    "confirmed": 394,
+    "confirmed": 837,
     "gender": null,
     "age": null
 },{
-    "date": "2020-10-15T00:00:00Z",
+    "date": "2020-10-22T00:00:00Z",
     "city": "Graçanica",
-    "confirmed": 18,
+    "confirmed": 38,
     "gender": null,
     "age": null
 },{
-    "date": "2020-10-15T00:00:00Z",
+    "date": "2020-10-22T00:00:00Z",
     "city": "Kamenicë",
-    "confirmed": 205,
+    "confirmed": 369,
     "gender": null,
     "age": null
 },{
-    "date": "2020-10-15T00:00:00Z",
+    "date": "2020-10-22T00:00:00Z",
     "city": "Ranilluk",
     "confirmed": 0,
     "gender": null,
     "age": null
 },{
-    "date": "2020-10-15T00:00:00Z",
+    "date": "2020-10-22T00:00:00Z",
     "city": "Junik",
-    "confirmed": 7,
+    "confirmed": 27,
     "gender": null,
     "age": null
 },{
-    "date": "2020-10-15T00:00:00Z",
+    "date": "2020-10-22T00:00:00Z",
     "city": "Gjakovë",
-    "confirmed": 655,
+    "confirmed": 1477,
     "gender": null,
     "age": null
 },{
-    "date": "2020-10-15T00:00:00Z",
+    "date": "2020-10-22T00:00:00Z",
     "city": "Rahovec",
-    "confirmed": 212,
+    "confirmed": 360,
     "gender": null,
     "age": null
 },{
-    "date": "2020-10-15T00:00:00Z",
+    "date": "2020-10-22T00:00:00Z",
     "city": "Suharekë",
-    "confirmed": 249,
+    "confirmed": 496,
     "gender": null,
     "age": null
 },{
-    "date": "2020-10-15T00:00:00Z",
+    "date": "2020-10-22T00:00:00Z",
     "city": "Shtime",
-    "confirmed": 148,
+    "confirmed": 349,
     "gender": null,
     "age": null
 },{
-    "date": "2020-10-15T00:00:00Z",
+    "date": "2020-10-22T00:00:00Z",
     "city": "Ferizaj",
-    "confirmed": 915,
+    "confirmed": 1745,
     "gender": null,
     "age": null
 },{
-    "date": "2020-10-15T00:00:00Z",
+    "date": "2020-10-22T00:00:00Z",
     "city": "Mamushë",
-    "confirmed": 42,
+    "confirmed": 47,
     "gender": null,
     "age": null
 },{
-    "date": "2020-10-15T00:00:00Z",
+    "date": "2020-10-22T00:00:00Z",
     "city": "Prizren",
-    "confirmed": 867,
+    "confirmed": 1567,
     "gender": null,
     "age": null
 },{
-    "date": "2020-10-15T00:00:00Z",
+    "date": "2020-10-22T00:00:00Z",
     "city": "Shtërpce",
-    "confirmed": 5,
-    "gender": null,
-    "age": null
-},{
-    "date": "2020-10-15T00:00:00Z",
-    "city": "Dragash",
-    "confirmed": 126,
-    "gender": null,
-    "age": null
-},{
-    "date": "2020-10-15T00:00:00Z",
-    "city": "Kaçanik",
-    "confirmed": 122,
-    "gender": null,
-    "age": null
-},{
-    "date": "2020-10-15T00:00:00Z",
-    "city": "Hani i Elezit",
-    "confirmed": 33,
-    "gender": null,
-    "age": null
-},{
-    "date": "2020-10-15T00:00:00Z",
-    "city": "Viti",
-    "confirmed": 434,
-    "gender": null,
-    "age": null
-},{
-    "date": "2020-10-15T00:00:00Z",
-    "city": "Kllokot",
-    "confirmed": 15,
-    "gender": null,
-    "age": null
-},{
-    "date": "2020-10-15T00:00:00Z",
-    "city": "Gjilan",
-    "confirmed": 1125,
-    "gender": null,
-    "age": null
-},{
-    "date": "2020-10-15T00:00:00Z",
-    "city": "Novobërdë",
     "confirmed": 9,
     "gender": null,
     "age": null
 },{
-    "date": "2020-10-15T00:00:00Z",
+    "date": "2020-10-22T00:00:00Z",
+    "city": "Dragash",
+    "confirmed": 179,
+    "gender": null,
+    "age": null
+},{
+    "date": "2020-10-22T00:00:00Z",
+    "city": "Kaçanik",
+    "confirmed": 213,
+    "gender": null,
+    "age": null
+},{
+    "date": "2020-10-22T00:00:00Z",
+    "city": "Hani i Elezit",
+    "confirmed": 61,
+    "gender": null,
+    "age": null
+},{
+    "date": "2020-10-22T00:00:00Z",
+    "city": "Viti",
+    "confirmed": 690,
+    "gender": null,
+    "age": null
+},{
+    "date": "2020-10-22T00:00:00Z",
+    "city": "Kllokot",
+    "confirmed": 29,
+    "gender": null,
+    "age": null
+},{
+    "date": "2020-10-22T00:00:00Z",
+    "city": "Gjilan",
+    "confirmed": 2353,
+    "gender": null,
+    "age": null
+},{
+    "date": "2020-10-22T00:00:00Z",
+    "city": "Novobërdë",
+    "confirmed": 42,
+    "gender": null,
+    "age": null
+},{
+    "date": "2020-10-22T00:00:00Z",
     "city": "Partesh",
     "confirmed": 2,
     "gender": null,
