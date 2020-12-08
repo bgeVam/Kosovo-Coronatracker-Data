@@ -1,227 +1,227 @@
 [{
-    "date": "2020-10-30T00:00:00Z",
+    "date": "2020-12-07T00:00:00Z",
     "city": "Leposaviç",
     "confirmed": 26,
     "gender": null,
     "age": null
 }, {
-    "date": "2020-10-30T00:00:00Z",
+    "date": "2020-12-07T00:00:00Z",
     "city": "Podujevë",
     "confirmed": 1706,
     "gender": null,
     "age": null
 },{
-    "date": "2020-10-30T00:00:00Z",
+    "date": "2020-12-07T00:00:00Z",
     "city": "Mitrovicë",
     "confirmed": 1862,
     "gender": null,
     "age": null
 },{
-    "date": "2020-10-30T00:00:00Z",
+    "date": "2020-12-07T00:00:00Z",
     "city": "Mitrovicë e Veriut",
     "confirmed": 56,
     "gender": null,
     "age": null
 },{
-    "date": "2020-10-30T00:00:00Z",
+    "date": "2020-12-08T00:00:00Z",
     "city": "Zveçan",
     "confirmed": 32,
     "gender": null,
     "age": null
 },{
-    "date": "2020-10-30T00:00:00Z",
+    "date": "2020-12-07T00:00:00Z",
     "city": "Zubin Potok",
     "confirmed": 53,
     "gender": null,
     "age": null
 },{
-    "date": "2020-10-30T00:00:00Z",
+    "date": "2020-12-07T00:00:00Z",
     "city": "Istog",
     "confirmed": 285,
     "gender": null,
     "age": null
 },{
-    "date": "2020-10-30T00:00:00Z",
+    "date": "2020-12-07T00:00:00Z",
     "city": "Skënderaj",
     "confirmed": 614,
     "gender": null,
     "age": null
 },{
-    "date": "2020-10-30T00:00:00Z",
+    "date": "2020-12-07T00:00:00Z",
     "city": "Vushtrri",
     "confirmed": 1485,
     "gender": null,
     "age": null
 },{
-    "date": "2020-10-30T00:00:00Z",
+    "date": "2020-12-07T00:00:00Z",
     "city": "Prishtinë",
     "confirmed": 16944,
     "gender": null,
     "age": null
 },{
-    "date": "2020-10-30T00:00:00Z",
+    "date": "2020-12-07T00:00:00Z",
     "city": "Obiliç",
     "confirmed": 625,
     "gender": null,
     "age": null
 },{
-    "date": "2020-10-30T00:00:00Z",
+    "date": "2020-12-07T00:00:00Z",
     "city": "Fushë Kosovë",
     "confirmed": 2080,
     "gender": null,
     "age": null
 },{
-    "date": "2020-10-30T00:00:00Z",
+    "date": "2020-12-07T00:00:00Z",
     "city": "Drenas",
     "confirmed": 865,
     "gender": null,
     "age": null
 },{
-    "date": "2020-10-30T00:00:00Z",
+    "date": "2020-12-07T00:00:00Z",
     "city": "Klinë",
     "confirmed": 455,
     "gender": null,
     "age": null
 },{
-    "date": "2020-10-30T00:00:00Z",
+    "date": "2020-12-07T00:00:00Z",
     "city": "Pejë",
     "confirmed": 1864,
     "gender": null,
     "age": null
 },{
-    "date": "2020-10-30T00:00:00Z",
+    "date": "2020-12-07T00:00:00Z",
     "city": "Deçan",
     "confirmed": 498,
     "gender": null,
     "age": null
 },{
-    "date": "2020-10-30T00:00:00Z",
+    "date": "2020-12-07T00:00:00Z",
     "city": "Malishevë",
     "confirmed": 502,
     "gender": null,
     "age": null
 },{
-    "date": "2020-10-30T00:00:00Z",
+    "date": "2020-12-07T00:00:00Z",
     "city": "Lipjan",
     "confirmed": 1139,
     "gender": null,
     "age": null
 },{
-    "date": "2020-10-30T00:00:00Z",
+    "date": "2020-12-07T00:00:00Z",
     "city": "Graçanica",
     "confirmed": 55,
     "gender": null,
     "age": null
 },{
-    "date": "2020-10-30T00:00:00Z",
+    "date": "2020-12-07T00:00:00Z",
     "city": "Kamenicë",
     "confirmed": 477,
     "gender": null,
     "age": null
 },{
-    "date": "2020-10-30T00:00:00Z",
+    "date": "2020-12-07T00:00:00Z",
     "city": "Ranilluk",
     "confirmed": 1,
     "gender": null,
     "age": null
 },{
-    "date": "2020-10-30T00:00:00Z",
+    "date": "2020-12-07T00:00:00Z",
     "city": "Junik",
     "confirmed": 37,
     "gender": null,
     "age": null
 },{
-    "date": "2020-10-30T00:00:00Z",
+    "date": "2020-12-07T00:00:00Z",
     "city": "Gjakovë",
     "confirmed": 1849,
     "gender": null,
     "age": null
 },{
-    "date": "2020-10-30T00:00:00Z",
+    "date": "2020-12-07T00:00:00Z",
     "city": "Rahovec",
     "confirmed": 448,
     "gender": null,
     "age": null
 },{
-    "date": "2020-10-30T00:00:00Z",
+    "date": "2020-12-07T00:00:00Z",
     "city": "Suharekë",
     "confirmed": 635,
     "gender": null,
     "age": null
 },{
-    "date": "2020-10-30T00:00:00Z",
+    "date": "2020-12-07T00:00:00Z",
     "city": "Shtime",
     "confirmed": 428,
     "gender": null,
     "age": null
 },{
-    "date": "2020-10-30T00:00:00Z",
+    "date": "2020-12-07T00:00:00Z",
     "city": "Ferizaj",
     "confirmed": 2105,
     "gender": null,
     "age": null
 },{
-    "date": "2020-10-30T00:00:00Z",
+    "date": "2020-12-07T00:00:00Z",
     "city": "Mamushë",
     "confirmed": 49,
     "gender": null,
     "age": null
 },{
-    "date": "2020-10-30T00:00:00Z",
+    "date": "2020-12-07T00:00:00Z",
     "city": "Prizren",
     "confirmed": 1839,
     "gender": null,
     "age": null
 },{
-    "date": "2020-10-30T00:00:00Z",
+    "date": "2020-12-07T00:00:00Z",
     "city": "Shtërpce",
     "confirmed": 12,
     "gender": null,
     "age": null
 },{
-    "date": "2020-10-30T00:00:00Z",
+    "date": "2020-12-07T00:00:00Z",
     "city": "Dragash",
     "confirmed": 196,
     "gender": null,
     "age": null
 },{
-    "date": "2020-10-30T00:00:00Z",
+    "date": "2020-12-07T00:00:00Z",
     "city": "Kaçanik",
     "confirmed": 262,
     "gender": null,
     "age": null
 },{
-    "date": "2020-10-30T00:00:00Z",
+    "date": "2020-12-07T00:00:00Z",
     "city": "Hani i Elezit",
     "confirmed": 72,
     "gender": null,
     "age": null
 },{
-    "date": "2020-10-30T00:00:00Z",
+    "date": "2020-12-07T00:00:00Z",
     "city": "Viti",
     "confirmed": 852,
     "gender": null,
     "age": null
 },{
-    "date": "2020-10-30T00:00:00Z",
+    "date": "2020-12-07T00:00:00Z",
     "city": "Kllokot",
     "confirmed": 32,
     "gender": null,
     "age": null
 },{
-    "date": "2020-10-30T00:00:00Z",
+    "date": "2020-12-07T00:00:00Z",
     "city": "Gjilan",
     "confirmed": 2840,
     "gender": null,
     "age": null
 },{
-    "date": "2020-10-30T00:00:00Z",
+    "date": "2020-12-07T00:00:00Z",
     "city": "Novobërdë",
     "confirmed": 47,
     "gender": null,
     "age": null
 },{
-    "date": "2020-10-30T00:00:00Z",
+    "date": "2020-12-07T00:00:00Z",
     "city": "Partesh",
     "confirmed": 2,
     "gender": null,
