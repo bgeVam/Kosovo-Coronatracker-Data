@@ -1800,9 +1800,27 @@
     "deaths": 6
 }, {
     "date": "2020-12-21T00:00:00Z",
+    "tested": 841,
+    "confirmed": 137,
+    "recovered": 382,
+    "deaths": 10
+}, {
+    "date": "2020-12-22T00:00:00Z",
     "tested": 1066,
     "confirmed": 271,
     "recovered": 417,
     "deaths": 12
+}, {
+    "date": "2020-12-23T00:00:00Z",
+    "tested": 1287,
+    "confirmed": 309,
+    "recovered": 546,
+    "deaths": 6
+}, {
+    "date": "2020-12-24T00:00:00Z",
+    "tested": 1048,
+    "confirmed": 249,
+    "recovered": 538,
+    "deaths": 8
 }]
 
