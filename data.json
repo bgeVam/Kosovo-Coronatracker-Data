@@ -1960,5 +1960,11 @@
     "confirmed": 353,
     "recovered": 279,
     "deaths": 5
+}, {
+    "date": "2021-01-17T00:00:00Z",
+    "tested": 1377,
+    "confirmed": 267,
+    "recovered": 163,
+    "deaths": 1
 }]
 
