@@ -1972,5 +1972,17 @@
     "confirmed": 294,
     "recovered": 281,
     "deaths": 9
+}, {
+    "date": "2021-01-19T00:00:00Z",
+    "tested": 1683,
+    "confirmed": 320,
+    "recovered": 269,
+    "deaths": 6
+}, {
+    "date": "2021-01-20T00:00:00Z",
+    "tested": 1569,
+    "confirmed": 296,
+    "recovered": 202,
+    "deaths": 7
 }]
 
