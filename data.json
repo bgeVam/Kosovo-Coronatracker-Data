@@ -1990,5 +1990,17 @@
     "confirmed": 289,
     "recovered": 303,
     "deaths": 14
+}, {
+    "date": "2021-01-22T00:00:00Z",
+    "tested": 1733,
+    "confirmed": 379,
+    "recovered": 244,
+    "deaths": 3
+}, {
+    "date": "2021-01-23T00:00:00Z",
+    "tested": 1618,
+    "confirmed": 392,
+    "recovered": 222,
+    "deaths": 6
 }]
 
