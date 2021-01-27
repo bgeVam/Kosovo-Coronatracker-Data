@@ -2008,5 +2008,11 @@
     "confirmed": 311,
     "recovered": 128,
     "deaths": 10
+}, {
+    "date": "2021-01-25T00:00:00Z",
+    "tested": 1842,
+    "confirmed": 288,
+    "recovered": 256,
+    "deaths": 5
 }]
 
