@@ -2014,5 +2014,11 @@
     "confirmed": 288,
     "recovered": 256,
     "deaths": 5
+}, {
+    "date": "2021-01-26T00:00:00Z",
+    "tested": 2325,
+    "confirmed": 301,
+    "recovered": 181,
+    "deaths": 8
 }]
 
