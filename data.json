@@ -2020,5 +2020,11 @@
     "confirmed": 301,
     "recovered": 181,
     "deaths": 8
+}, {
+    "date": "2021-01-27T00:00:00Z",
+    "tested": 1652,
+    "confirmed": 316,
+    "recovered": 195,
+    "deaths": 3
 }]
 
