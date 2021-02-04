@@ -2062,5 +2062,11 @@
     "confirmed": 341,
     "recovered": 207,
     "deaths": 3
+}, {
+    "date": "2021-02-03T00:00:00Z",
+    "tested": 2303,
+    "confirmed": 318,
+    "recovered": 214,
+    "deaths": 5
 }]
 
