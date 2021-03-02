@@ -2200,5 +2200,29 @@
     "confirmed": 445,
     "recovered": 264,
     "deaths": 5
+}, {
+    "date": "2021-02-26T00:00:00Z",
+    "tested": 3454,
+    "confirmed": 426,
+    "recovered": 205,
+    "deaths": 3
+}, {
+    "date": "2021-02-27T00:00:00Z",
+    "tested": 3680,
+    "confirmed": 453,
+    "recovered": 206,
+    "deaths": 4
+}, {
+    "date": "2021-02-28T00:00:00Z",
+    "tested": 2914,
+    "confirmed": 467,
+    "recovered": 214,
+    "deaths": 9
+}, {
+    "date": "2021-03-01T00:00:00Z",
+    "tested": 2886,
+    "confirmed": 488,
+    "recovered": 270,
+    "deaths": 8
 }]
 
