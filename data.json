@@ -2356,5 +2356,29 @@
     "confirmed": 781,
     "recovered": 764,
     "deaths": 17
+}, {
+    "date": "2021-03-24T00:00:00Z",
+    "tested": 4133,
+    "confirmed": 836,
+    "recovered": 700,
+    "deaths": 10
+}, {
+    "date": "2021-03-25T00:00:00Z",
+    "tested": 4318,
+    "confirmed": 860,
+    "recovered": 682,
+    "deaths": 6
+}, {
+    "date": "2021-03-26T00:00:00Z",
+    "tested": 4371,
+    "confirmed": 873,
+    "recovered": 544,
+    "deaths": 11
+}, {
+    "date": "2021-03-27T00:00:00Z",
+    "tested": 4733,
+    "confirmed": 914,
+    "recovered": 602,
+    "deaths": 10
 }]
 
