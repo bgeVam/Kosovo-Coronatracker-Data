@@ -2440,5 +2440,11 @@
     "confirmed": 685,
     "recovered": 788,
     "deaths": 14
+}, {
+    "date": "2021-04-07T00:00:00Z",
+    "tested": 5502,
+    "confirmed": 871,
+    "recovered": 642,
+    "deaths": 12
 }]
 
