@@ -2470,5 +2470,17 @@
     "confirmed": 345,
     "recovered": 518,
     "deaths": 8
+}, {
+    "date": "2021-04-12T00:00:00Z",
+    "tested": 3788,
+    "confirmed": 494,
+    "recovered": 1009,
+    "deaths": 12
+}, {
+    "date": "2021-04-13T00:00:00Z",
+    "tested": 4557,
+    "confirmed": 701,
+    "recovered": 737,
+    "deaths": 14
 }]
 
