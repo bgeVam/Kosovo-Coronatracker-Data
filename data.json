@@ -2548,5 +2548,65 @@
     "confirmed": 227,
     "recovered": 615,
     "deaths": 4
+}, {
+    "date": "2021-04-25T00:00:00Z",
+    "tested": 1559,
+    "confirmed": 150,
+    "recovered": 545,
+    "deaths": 11
+}, {
+    "date": "2021-04-26T00:00:00Z",
+    "tested": 2285,
+    "confirmed": 194,
+    "recovered": 599,
+    "deaths": 8
+}, {
+    "date": "2021-04-27T00:00:00Z",
+    "tested": 3104,
+    "confirmed": 327,
+    "recovered": 508,
+    "deaths": 5
+}, {
+    "date": "2021-04-28T00:00:00Z",
+    "tested": 3262,
+    "confirmed": 269,
+    "recovered": 449,
+    "deaths": 9
+}, {
+    "date": "2021-04-29T00:00:00Z",
+    "tested": 2810,
+    "confirmed": 202,
+    "recovered": 646,
+    "deaths": 11
+}, {
+    "date": "2021-04-30T00:00:00Z",
+    "tested": 2944,
+    "confirmed": 187,
+    "recovered": 456,
+    "deaths": 5
+}, {
+    "date": "2021-05-01T00:00:00Z",
+    "tested": 3002,
+    "confirmed": 160,
+    "recovered": 415,
+    "deaths": 5
+}, {
+    "date": "2021-05-02T00:00:00Z",
+    "tested": 2052,
+    "confirmed": 101,
+    "recovered": 421,
+    "deaths": 4
+}, {
+    "date": "2021-05-03T00:00:00Z",
+    "tested": 1312,
+    "confirmed": 75,
+    "recovered": 546,
+    "deaths": 4
+}, {
+    "date": "2021-05-04T00:00:00Z",
+    "tested": 1474,
+    "confirmed": 153,
+    "recovered": 310,
+    "deaths": 4
 }]
 
