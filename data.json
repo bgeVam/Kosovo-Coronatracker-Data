@@ -2692,5 +2692,11 @@
     "confirmed": 62,
     "recovered": 379,
     "deaths": 8
+}, {
+    "date": "2021-05-19T00:00:00Z",
+    "tested": 3134,
+    "confirmed": 55,
+    "recovered": 331,
+    "deaths": 2
 }]
 
