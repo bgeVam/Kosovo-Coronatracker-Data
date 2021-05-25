@@ -2704,5 +2704,23 @@
     "confirmed": 58,
     "recovered": 156,
     "deaths": 2
+}, {
+    "date": "2021-05-21T00:00:00Z",
+    "tested": 3199,
+    "confirmed": 35,
+    "recovered": 180,
+    "deaths": 0
+}, {
+    "date": "2021-05-22T00:00:00Z",
+    "tested": 3012,
+    "confirmed": 31,
+    "recovered": 95,
+    "deaths": 0
+}, {
+    "date": "2021-05-23T00:00:00Z",
+    "tested": 1904,
+    "confirmed": 14,
+    "recovered": 93,
+    "deaths": 1
 }]
 
