@@ -2788,5 +2788,23 @@
     "confirmed": 7,
     "recovered": 147,
     "deaths": 1
+}, {
+    "date": "2021-06-04T00:00:00Z",
+    "tested": 2066,
+    "confirmed": 20,
+    "recovered": 197,
+    "deaths": 0
+}, {
+    "date": "2021-06-05T00:00:00Z",
+    "tested": 2074,
+    "confirmed": 11,
+    "recovered": 146,
+    "deaths": 1
+}, {
+    "date": "2021-06-06T00:00:00Z",
+    "tested": 2277,
+    "confirmed": 10,
+    "recovered": 134,
+    "deaths": 0
 }]
 
