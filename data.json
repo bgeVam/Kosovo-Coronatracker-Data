@@ -2818,5 +2818,29 @@
     "confirmed": 21,
     "recovered": 111,
     "deaths": 1
+}, {
+    "date": "2021-06-09T00:00:00Z",
+    "tested": 2660,
+    "confirmed": 11,
+    "recovered": 109,
+    "deaths": 1
+}, {
+    "date": "2021-06-10T00:00:00Z",
+    "tested": 1977,
+    "confirmed": 10,
+    "recovered": 116,
+    "deaths": 0
+}, {
+    "date": "2021-06-11T00:00:00Z",
+    "tested": 1774,
+    "confirmed": 17,
+    "recovered": 112,
+    "deaths": 1
+}, {
+    "date": "2021-06-12T00:00:00Z",
+    "tested": 2117,
+    "confirmed": 7,
+    "recovered": 103,
+    "deaths": 1
 }]
 
