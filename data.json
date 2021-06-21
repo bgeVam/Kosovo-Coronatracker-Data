@@ -2850,14 +2850,38 @@
     "deaths": 0
 }, {
     "date": "2021-06-14T00:00:00Z",
-    "tested": 1493,
-    "confirmed": 5,
-    "recovered": 94,
-    "deaths": 0
-}, {
-    "date": "2021-06-15T00:00:00Z",
     "tested": 2668,
     "confirmed": 12,
     "recovered": 119,
     "deaths": 0
+}, {
+    "date": "2021-06-15T00:00:00Z",
+    "tested": 1713,
+    "confirmed": 15,
+    "recovered": 67,
+    "deaths": 0
+}, {
+    "date": "2021-06-16T00:00:00Z",
+    "tested": 1848,
+    "confirmed": 10,
+    "recovered": 12,
+    "deaths": 0
+}, {
+    "date": "2021-06-17T00:00:00Z",
+    "tested": 1694,
+    "confirmed": 9,
+    "recovered": 14,
+    "deaths": 0
+}, {
+    "date": "2021-06-18T00:00:00Z",
+    "tested": 1938,
+    "confirmed": 16,
+    "recovered": 18,
+    "deaths": 0
+}, {
+    "date": "2021-06-19T00:00:00Z",
+    "tested": 2112,
+    "confirmed": 8,
+    "recovered": 9,
+    "deaths": 1
 }]
