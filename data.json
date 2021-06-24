@@ -2890,4 +2890,22 @@
     "confirmed": 2,
     "recovered": 14,
     "deaths": 0
+}, {
+    "date": "2021-06-21T00:00:00Z",
+    "tested": 1963,
+    "confirmed": 18,
+    "recovered": 14,
+    "deaths": 1
+}, {
+    "date": "2021-06-22T00:00:00Z",
+    "tested": 1891,
+    "confirmed": 20,
+    "recovered": 19,
+    "deaths": 1
+}, {
+    "date": "2021-06-23T00:00:00Z",
+    "tested": 1764,
+    "confirmed": 14,
+    "recovered": 6,
+    "deaths": 2
 }]
