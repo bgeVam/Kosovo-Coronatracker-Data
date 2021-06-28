@@ -2908,4 +2908,22 @@
     "confirmed": 14,
     "recovered": 6,
     "deaths": 2
+}, {
+    "date": "2021-06-24T00:00:00Z",
+    "tested": 1224,
+    "confirmed": 7,
+    "recovered": 12,
+    "deaths": 0
+}, {
+    "date": "2021-06-25T00:00:00Z",
+    "tested": 1658,
+    "confirmed": 11,
+    "recovered": 6,
+    "deaths": 1
+}, {
+    "date": "2021-06-26T00:00:00Z",
+    "tested": 1984,
+    "confirmed": 14,
+    "recovered": 12,
+    "deaths": 1
 }]
