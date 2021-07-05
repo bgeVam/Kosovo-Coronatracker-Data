@@ -2944,4 +2944,22 @@
     "confirmed": 10,
     "recovered": 12,
     "deaths": 0
+}, {
+    "date": "2021-07-01T00:00:00Z",
+    "tested": 1241,
+    "confirmed": 17,
+    "recovered": 8,
+    "deaths": 2
+}, {
+    "date": "2021-07-02T00:00:00Z",
+    "tested": 1859,
+    "confirmed": 3,
+    "recovered": 9,
+    "deaths": 0
+}, {
+    "date": "2021-07-03T00:00:00Z",
+    "tested": 1871,
+    "confirmed": 9,
+    "recovered": 14,
+    "deaths": 1
 }]
