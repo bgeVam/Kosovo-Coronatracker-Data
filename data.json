@@ -2974,4 +2974,10 @@
 	"confirmed": 10,
 	"recovered": 16,
 	"deaths": 0
+}, {
+	"date": "2021-07-06T00:00:00Z",
+	"tested": 1575,
+	"confirmed": 9,
+	"recovered": 8,
+	"deaths": 1
 }]
