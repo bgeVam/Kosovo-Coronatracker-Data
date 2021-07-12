@@ -2992,4 +2992,10 @@
 	"confirmed": 8,
 	"recovered": 10,
 	"deaths": 0
+}, {
+	"date": "2021-07-09T00:00:00Z",
+	"tested": 1347,
+	"confirmed": 7,
+	"recovered": 22,
+	"deaths": 0
 }]
