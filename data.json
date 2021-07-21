@@ -3004,4 +3004,58 @@
 	"confirmed": 12,
 	"recovered": 13,
 	"deaths": 0
+}, {
+	"date": "2021-07-11T00:00:00Z",
+	"tested": 1050,
+	"confirmed": 5,
+	"recovered": 6,
+	"deaths": 0
+}, {
+	"date": "2021-07-12T00:00:00Z",
+	"tested": 2133,
+	"confirmed": 8,
+	"recovered": 32,
+	"deaths": 0
+}, {
+	"date": "2021-07-13T00:00:00Z",
+	"tested": 1421,
+	"confirmed": 12,
+	"recovered": 14,
+	"deaths": 0
+}, {
+	"date": "2021-07-14T00:00:00Z",
+	"tested": 1476,
+	"confirmed": 4,
+	"recovered": 5,
+	"deaths": 0
+}, {
+	"date": "2021-07-15T00:00:00Z",
+	"tested": 1366,
+	"confirmed": 11,
+	"recovered": 17,
+	"deaths": 0
+}, {
+	"date": "2021-07-16T00:00:00Z",
+	"tested": 1944,
+	"confirmed": 2,
+	"recovered": 3,
+	"deaths": 0
+}, {
+	"date": "2021-07-17T00:00:00Z",
+	"tested": 2202,
+	"confirmed": 7,
+	"recovered": 2,
+	"deaths": 0
+}, {
+	"date": "2021-07-18T00:00:00Z",
+	"tested": 1091,
+	"confirmed": 3,
+	"recovered": 2,
+	"deaths": 0
+}, {
+	"date": "2021-07-19T00:00:00Z",
+	"tested": 2144,
+	"confirmed": 15,
+	"recovered": 11,
+	"deaths": 1
 }]
